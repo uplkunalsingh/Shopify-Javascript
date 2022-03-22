@@ -1,5 +1,5 @@
-// import Client from "./js-buy-sdk-index.umd.min.js";
-import Client from "./node_modules/shopify-buy/index.es.js";
+import Client from "./js-buy-sdk-index.umd.min.js";
+// import Client from "./node_modules/shopify-buy/index.es.js";
 
 
 function renderProducts(products) {
