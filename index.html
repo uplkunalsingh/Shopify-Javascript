@@ -1,135 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Shopify</title>
-    <style>
-      body {
-        max-width: 1140px;
-        margin: 0 auto;
-      }
 
-      .products {
-        display: flex;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 10px;
-        margin-top:10px;
-      }
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Shopify</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
 
-      .product {
-        border: 1px solid gray;
-        word-break: break-all;
-      }
-
-      .product img {
-        max-width: 100%;
-      }
-
-      .product-description {
-        padding: 15px;
-      }
-
-      @media (min-width: 348px) {
-        .product {
-          width: 300px !important;
-        }
-      }
-
-      .content{
-        padding: 20px;
-        position: sticky;
-        top: 0;
-        background: rgb(121, 121, 121);
-        min-width: 100%;
-      }
-
-      .check-out{
-        background: rgb(29, 29, 29);
-        color: white;
-        margin: 20px;
-        padding: 1rem 1.3rem;
-        height: 20px;
-        cursor: pointer;
-      }
-
-      .add-to-cart{
-       padding: .5rem;
-       background: rgb(165, 165, 165);
-       cursor: pointer;
-      }
-    </style>
-  </head>
-
-  <body>
-    <div class="content">
-      <a href="" class="check-out">Check Out</a>
+<body>
+  <div class="container max-w-5xl mx-auto">
+    <div class="bg-gray-100 bg-indigo-100 p-6 sticky top-0 w-[100%] flex gap-4">
+      <a href="" class="check-out bg-indigo-800 p-4 min-w-[140px] text-center text-white">Check Out</a>
       <p class="web-url"></p>
     </div>
-    <div class="products"></div>
-  </body>
-  <script src="script.js" type="module"></script>
-  <!-- <script type="module">  
-    import Client from "./js-buy-sdk-index.umd.min.js";
-    let checkoutObject;
+    <div class="grid md:grid-cols-3 gap-8 products p-4">
 
-    function renderProducts(products) {
-      const productsContainer = document.querySelector(".products");
-      productsContainer.innerHTML = "";
-      products.forEach((element) => {
-        productsContainer.innerHTML += `
-          <div class="product">
-            <img src="${element.images[0].src}" alt="${element.title}" />
-            <div class="product-description"> 
-              <h3>${element.title}</h3>
-              <span>${element.id}</span>
-              <p>$${element.variants[0].price}</p>
-              ${element.descriptionHtml}
-            </div>
-          </div>`;
-      });
-    }
+    </div>
+    <script src="script.js" type="module"></script>
+</body>
 
-    // Initializing a client to return content in the store's primary language
-    const client = Client.buildClient({
-      domain: "dijih42627.myshopify.com",
-      storefrontAccessToken: "2ecb38cb90dfbe8ec5f2183160f1f6a8",
-    });
-
-    // console.log(client);
-
-    // Initializing a client to return translated content
-    const clientWithTranslatedContent = Client.buildClient({
-      domain: "dijih42627.myshopify.com",
-      storefrontAccessToken: "2ecb38cb90dfbe8ec5f2183160f1f6a8",
-    });
-
-    // fetch all products
-    client.product.fetchAll().then((products) => {
-      // Do something with the products
-      // console.log(products);
-      renderProducts(products);
-    });
-
-    // Fetch a single product by ID
-    const productId = "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY3NDI3MTI2NDc3NDE=";
-
-    // Create Checkout
-    client.checkout.create().then((checkout) => {
-      // Do something with the checkout
-      console.log("checkout");
-      console.log(checkout);
-    });
-
-    // Adding an item to the cart
-    // const checkoutId = 'Z2lkOi8vc2hvcGlmeS9DaGVja291dC9kMTZmM2EzMDM4Yjc4N=';
-    // const input = {customAttributes: [{key: "MyKey", value: "MyValue"}]};
-
-    // client.checkout.updateAttributes(checkoutId, input).then((checkout) => {
-    //   // Do something with the updated checkout
-    // });
-
-</script> -->
 </html>
