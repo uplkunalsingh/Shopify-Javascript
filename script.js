@@ -13,11 +13,11 @@ function renderProducts(products) {
         </p>
         <div class="p-4">
             <div class="flex justify-between">
-              <h3>${element.title}</h3>
+              <h3 class="font-bold">${element.title}</h3>
               <p>$${element.variants[0].price}</p>
             </div>
         </div>
-      <button class="add-to-cart bg-indigo-700 py-2 px-2 text-white w-full" data-id="${element.id}">Add to cart</button>  
+      <button class="add-to-cart font-semibold bg-indigo-700 py-2 px-2 text-white w-full" data-id="${element.variants[0].id}">Add to cart</button>  
       </div>`;
   });
 }
