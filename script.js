@@ -17,7 +17,7 @@ function renderProducts(products) {
               <p>$${element.variants[0].price}</p>
             </div>
         </div>
-      <button class="add-to-cart font-semibold bg-indigo-700 py-2 px-2 text-white w-full" data-id="${element.variants[0].id}">Add to cart</button>  
+      <button class="add-to-cart font-semibold bg-indigo-700 py-2 px-2 text-white w-full" data-product-id="${element.variants[0].id}">Add to cart</button>  
       </div>`;
   });
 }
