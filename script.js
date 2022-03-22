@@ -11,10 +11,10 @@ function renderProducts(products) {
         <img src="${element.images[0].src}" alt="${element.title}" />
         <div class="product-description"> 
           <h3>${element.title}</h3>
-          <span>${element.id}</span>
+          <span>${element.variants[0].id}</span>
           <p>$${element.variants[0].price}</p>
           ${element.descriptionHtml}
-          <a class="add-to-cart" data-product-id=${element.id}>Add to Cart</a>
+          <a class="add-to-cart" data-product-id=${element.variants[0].id}>Add to Cart</a>
         </div>
       </div>`;
   });
@@ -48,7 +48,7 @@ console.log(client);
 // fetch all products
 client.product.fetchAll().then((products) => {
   // Do something with the products
-//   console.log(products);
+  console.log(products);
   renderProducts(products);
 });
 
@@ -70,15 +70,15 @@ client.checkout.create().then((checkout) => {
 document.querySelector('.products').addEventListener('click' , (e)=>{
     if(!e.target.classList.contains('add-to-cart')) return
     const productId = e.target.dataset.productId;
-    const lineItemsToUpdate = [
-        {id: productId , quantity: 1}
+    const lineItemsToAdd = [
+        {variantId: productId , quantity: 1}
     ];
     // console.log(productId)
-    console.log(lineItemsToUpdate);
+    console.log(lineItemsToAdd);
     updateCheckoutLink(); 
 
     // Update the line item on the checkout (change the quantity or variant)
-    client.checkout.updateLineItems(localStorage.checkout_id, lineItemsToUpdate).then((checkout) => {
+    client.checkout.addLineItems(localStorage.checkout_id, lineItemsToAdd).then((checkout) => {
       // Do something with the updated checkout
        console.log("checkout after Adding Item"); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
         console.log(checkout.lineItems); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
