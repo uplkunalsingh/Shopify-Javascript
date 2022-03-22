@@ -7,20 +7,22 @@ function renderProducts(products) {
   productsContainer.innerHTML = "";
   products.forEach((element) => {
     productsContainer.innerHTML += `
-      <div class="product">
-        <img src="${element.images[0].src}" alt="${element.title}" />
-        <div class="product-description"> 
-          <h3>${element.title}</h3>
-          <span>${element.id}</span>
-          <p>$${element.variants[0].price}</p>
-          ${element.descriptionHtml}
-          <a class="add-to-cart" data-product-id=${element.id}>Add to Cart</a>
+      <div class="shadow-xl" id="${element.id}">
+        <p class="text-center">
+          <img src="${element.images[0].src}" alt="${element.title}" />
+        </p>
+        <div class="p-4">
+            <div class="flex justify-between">
+              <h3>${element.title}</h3>
+              <p>$${element.variants[0].price}</p>
+            </div>
         </div>
+      <button class="add-to-cart bg-indigo-700 py-2 px-2 text-white w-full" data-id="${element.id}">Add to cart</button>  
       </div>`;
   });
 }
 
-function updateCheckoutLink() {  
+function updateCheckoutLink() {
   client.checkout.fetch(localStorage.checkout_id).then((checkout) => {
     // Do something with the checkout
     console.log(checkout.webUrl);
@@ -29,65 +31,65 @@ function updateCheckoutLink() {
   });
 }
 
-try{
+try {
 
-// Initializing a client to return content in the store's primary language
-var client = Client.buildClient({
-  domain: "dijih42627.myshopify.com",
-  storefrontAccessToken: "2ecb38cb90dfbe8ec5f2183160f1f6a8",
-});
+  // Initializing a client to return content in the store's primary language
+  var client = Client.buildClient({
+    domain: "dijih42627.myshopify.com",
+    storefrontAccessToken: "2ecb38cb90dfbe8ec5f2183160f1f6a8",
+  });
 
-console.log(client);
+  console.log(client);
 
-// Initializing a client to return translated content
-// const clientWithTranslatedContent = Client.buildClient({
-//   domain: "dijih42627.myshopify.com",
-//   storefrontAccessToken: "2ecb38cb90dfbe8ec5f2183160f1f6a8",
-// });
+  // Initializing a client to return translated content
+  // const clientWithTranslatedContent = Client.buildClient({
+  //   domain: "dijih42627.myshopify.com",
+  //   storefrontAccessToken: "2ecb38cb90dfbe8ec5f2183160f1f6a8",
+  // });
 
-// fetch all products
-client.product.fetchAll().then((products) => {
-  // Do something with the products
-//   console.log(products);
-  renderProducts(products);
-});
+  // fetch all products
+  client.product.fetchAll().then((products) => {
+    // Do something with the products
+    //   console.log(products);
+    renderProducts(products);
+  });
 
-// Fetch a single product by ID
-// const productId = "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY3NDI3MTI2NDc3NDE=";
+  // Fetch a single product by ID
+  // const productId = "Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0LzY3NDI3MTI2NDc3NDE=";
 
-// Create Checkout
-//  https://my-shop-name.myshopify.com/cart/36485954240671:3,31384149360662:1
-// var checkoutObject;
+  // Create Checkout
+  //  https://my-shop-name.myshopify.com/cart/36485954240671:3,31384149360662:1
+  // var checkoutObject;
 
-client.checkout.create().then((checkout) => {
-  // Do something with the checkout
-  console.log("checkout" , checkout);
-  // storing checkout in local storage
-  localStorage.setItem('checkout_id', checkout.id);
-  console.log(checkout)
-});
+  client.checkout.create().then((checkout) => {
+    // Do something with the checkout
+    console.log("checkout", checkout);
+    // storing checkout in local storage
+    localStorage.setItem('checkout_id', checkout.id);
+    console.log(checkout)
+  });
 
-document.querySelector('.products').addEventListener('click' , (e)=>{
-    if(!e.target.classList.contains('add-to-cart')) return
+  document.querySelector('.products').addEventListener('click', (e) => {
+    if (!e.target.classList.contains('add-to-cart')) return
     const productId = e.target.dataset.productId;
     const lineItemsToUpdate = [
-        {id: productId , quantity: 1}
+      { id: productId, quantity: 1 }
     ];
     // console.log(productId)
     console.log(lineItemsToUpdate);
-    updateCheckoutLink(); 
+    updateCheckoutLink();
 
     // Update the line item on the checkout (change the quantity or variant)
     client.checkout.updateLineItems(localStorage.checkout_id, lineItemsToUpdate).then((checkout) => {
       // Do something with the updated checkout
-       console.log("checkout after Adding Item"); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
-        console.log(checkout.lineItems); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
+      console.log("checkout after Adding Item"); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
+      console.log(checkout.lineItems); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
     });
-})
+  })
 
 }
-catch(err){
-    console.log(err);
+catch (err) {
+  console.log(err);
 }
 
 // Adding an item to the cart
