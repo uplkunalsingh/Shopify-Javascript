@@ -6,12 +6,12 @@ function renderProducts(products) {
   productsContainer.innerHTML = "";
   products.forEach((element) => {
     productsContainer.innerHTML += `
-      <div class="shadow-xl" id="${element.id}">
+      <div class="shadow-xl flex flex-col justify-between" id="${element.id}">
         <p class="text-center">
           <img style="max-height:200px !important; margin:0 auto;" src="${element.images[0].src}" alt="${element.title}" />
         </p>
         <div class="p-4">
-            <div class="flex justify-between">
+            <div class="flex justify-between items-center">
               <h3 class="font-bold">${element.title}</h3>
               <p>$${element.variants[0].price}</p>
             </div>
@@ -56,12 +56,12 @@ try {
   //     console.log(localStorage.checkout_id);
   //   });
   // }else{
-    client.checkout.create().then((checkout) => {
-      console.log("checkout", checkout);
-      localStorage.setItem("checkout_id", checkout.id);
-      console.log(checkout);
-      console.log(localStorage.checkout_id);
-    });
+  client.checkout.create().then((checkout) => {
+    console.log("checkout", checkout);
+    localStorage.setItem("checkout_id", checkout.id);
+    console.log(checkout);
+    console.log(localStorage.checkout_id);
+  });
   // }
 
   document.querySelector(".products").addEventListener("click", (e) => {
