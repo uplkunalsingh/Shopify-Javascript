@@ -6,3 +6,5 @@
 > Yes, It will work as per your requirement. We can use localstorage/cookies to store data.
 
 => Please provide store url aswell with accesstoken 
+
+https://headless-shopify.netlify.app/
