@@ -25,8 +25,7 @@ function updateCheckoutLink() {
   client.checkout.fetch(localStorage.checkout_id).then((checkout) => {
     console.log(checkout.webUrl);
     document.querySelector(".check-out").setAttribute("href", checkout.webUrl);
-    document.querySelector(".cart sup").innerHTML =
-      checkout.lineItems.length + 1;
+    document.querySelector(".cart sup").innerHTML = localStorage.lineItems ? JSON.parse(localStorage.lineItems).length :  checkout.lineItems.length;
   });
 }
 
