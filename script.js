@@ -30,8 +30,17 @@ function updateCheckoutLink() {
   });
 }
 
+
+function addProducttoLocalStorage(lineItem){
+  if(!localStorage.lineItems)
+    localStorage.setItem('lineItems',[]);
+  console.log("--------lineItem-----------")
+  console.log(lineItem)
+  localStorage.lineItems = JSON.stringify([JSON.parse(localStorage.lineItems) , ...lineItem])
+  // console.log(localStorage.lineItems)
+}
+
 try {
-  // Initializing a client to return content in the store's primary language
   var client = Client.buildClient({
     // domain: "dijih42627.myshopify.com",
     // storefrontAccessToken: "2ecb38cb90dfbe8ec5f2183160f1f6a8",
@@ -46,38 +55,37 @@ try {
   });
 
   // Create Checkout
+  client.checkout.create().then((checkout) => {
+    console.log("checkout", checkout);
+    localStorage.setItem("checkout_id", checkout.id);
+    console.log(checkout);
+    console.log(localStorage.checkout_id);
+  });
 
-  // if (localStorage.checkout_id) {
-  //   console.log("has checkout");
-  //   client.checkout.create().then((checkout) => {
-  //     console.log("checkout", checkout);
-  //     localStorage.setItem("checkout_id", checkout.id);
-  //     console.log(checkout);
-  //     console.log(localStorage.checkout_id);
-  //   });
-  // }else{
-    client.checkout.create().then((checkout) => {
-      console.log("checkout", checkout);
-      localStorage.setItem("checkout_id", checkout.id);
-      console.log(checkout);
-      console.log(localStorage.checkout_id);
+
+  // CHeccking if local storage has line items(products) for cart
+  if(localStorage.lineItems){
+    client.checkout
+    .addLineItems(localStorage.checkout_id, JSON.parse(localStorage.lineItems))
+    .then((checkout) => {
+      console.log("Got Previous Prods from local storage"); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
+      console.log(checkout); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
+      // localStorage.setItem("checkout", JSON.stringify(checkout));
     });
-  // }
+  }
 
   document.querySelector(".products").addEventListener("click", (e) => {
     if (!e.target.classList.contains("add-to-cart")) return;
     const productId = e.target.dataset.productId;
     const lineItemsToAdd = [{ variantId: productId, quantity: 1 }];
-    console.log(lineItemsToAdd);
-    updateCheckoutLink();
-    // Update the line item on the checkout (change the quantity or variant)
+    updateCheckoutLink(lineItemsToAdd);
     client.checkout
       .addLineItems(localStorage.checkout_id, lineItemsToAdd)
       .then((checkout) => {
-        // Do something with the updated checkout
+        addProducttoLocalStorage(lineItemsToAdd);
         console.log("checkout after Adding Item"); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
         console.log(checkout); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
-        localStorage.setItem("checkout", JSON.stringify(checkout));
+        // localStorage.setItem("checkout", JSON.stringify(checkout));
       });
   });
 } catch (err) {
