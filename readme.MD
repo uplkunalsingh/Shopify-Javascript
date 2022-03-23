@@ -5,6 +5,6 @@
 - When viewing a Product Page, could the user "add to cart" on that product page, then go back to the product listings and still have their cart cookied with what they've added already
 > Yes, It will work as per your requirement. We can use localstorage/cookies to store data.
 
-=> Please provide store url aswell with accesstoken 
+=> Please provide store url aswell with accesstoken     
 
 https://headless-shopify.netlify.app/
