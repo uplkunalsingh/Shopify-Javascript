@@ -6,7 +6,7 @@ function renderProducts(products) {
   productsContainer.innerHTML = "";
   products.forEach((element) => {
     productsContainer.innerHTML += `
-      <div class="shadow-xl flex flex-col justify-between" id="${element.id}">
+      <div class="shadow-md flex flex-col justify-between border border-gray-100 cursor-pointer hover:shadow-xl" id="${element.id}">
         <p class="text-center">
           <img style="max-height:200px !important; margin:0 auto;" src="${element.images[0].src}" alt="${element.title}" />
         </p>
