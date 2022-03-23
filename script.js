@@ -86,6 +86,7 @@ try {
       // Do something with the updated checkout
       console.log("checkout after Adding Item"); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
       console.log(checkout); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
+      localStorage.setItem('checkout', JSON.parse(checkout));
     });
   })
 
