@@ -9,7 +9,7 @@ function renderProducts(products) {
     productsContainer.innerHTML += `
       <div class="shadow-xl" id="${element.id}">
         <p class="text-center">
-          <img src="${element.images[0].src}" alt="${element.title}" />
+          <img style="max-height:200px !important; margin:0 auto;" src="${element.images[0].src}" alt="${element.title}" />
         </p>
         <div class="p-4">
             <div class="flex justify-between">
@@ -35,8 +35,10 @@ try {
 
   // Initializing a client to return content in the store's primary language
   var client = Client.buildClient({
-    domain: "dijih42627.myshopify.com",
-    storefrontAccessToken: "2ecb38cb90dfbe8ec5f2183160f1f6a8",
+    // domain: "dijih42627.myshopify.com",
+    // storefrontAccessToken: "2ecb38cb90dfbe8ec5f2183160f1f6a8",
+    domain: "pdiarm.myshopify.com",
+    storefrontAccessToken: "2eb3f2aff694f5f274f11ca7a67f49d5",
   });
 
   console.log(client);
