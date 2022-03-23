@@ -34,10 +34,15 @@ function updateCheckoutLink() {
 function addProducttoLocalStorage(lineItem){
   if(!localStorage.lineItems)
     localStorage.setItem('lineItems',[]);
-  console.log("--------lineItem-----------")
-  console.log(lineItem)
-  localStorage.lineItems = JSON.stringify([JSON.parse(localStorage.lineItems) , ...lineItem])
-  // console.log(localStorage.lineItems)
+  let templineItems = lineItem;
+  if(localStorage.lineItems.length>0){
+    templineItems = [JSON.parse(localStorage.lineItems) , ...lineItem].flat();
+    // console.log("--------final-----------")
+    // console.log(templineItems)
+  }
+  else
+    templineItems = [...lineItem].flat();
+  localStorage.lineItems = JSON.stringify(templineItems)
 }
 
 try {
@@ -65,11 +70,14 @@ try {
 
   // CHeccking if local storage has line items(products) for cart
   if(localStorage.lineItems){
+
+    let lineItems = JSON.parse(localStorage.lineItems);
     client.checkout
-    .addLineItems(localStorage.checkout_id, JSON.parse(localStorage.lineItems))
+    .addLineItems(localStorage.checkout_id, lineItems)
     .then((checkout) => {
       console.log("Got Previous Prods from local storage"); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
       console.log(checkout); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
+      updateCheckoutLink();
       // localStorage.setItem("checkout", JSON.stringify(checkout));
     });
   }
