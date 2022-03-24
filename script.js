@@ -92,6 +92,12 @@ try {
       });
   });
 } catch (err) {
+  const errBlock = document.querySelector(".error");
+  errBlock.innerHTML= `
+    <div>
+      <h2 class="text-4xl text-center font-extrabold" > Something Went Wrong :( Please refresh. </h2>
+    </div>
+  `;
   console.log(err);
 }
 
