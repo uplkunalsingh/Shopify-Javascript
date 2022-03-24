@@ -22,34 +22,25 @@ function renderProducts(products) {
 }
 
 function updateCheckoutLink(checkout) {
-  if(localStorage.checkout_id && localStorage.lineItems){
-      console.log(checkout.webUrl);
-      document.querySelector(".check-out").setAttribute("href", checkout.webUrl);
-      document.querySelector(".cart sup").innerHTML = localStorage.lineItems ? JSON.parse(localStorage.lineItems).length :  checkout.lineItems.length;
-  }
-  else{
-    console.log("no checkout id");
-  }
+  console.log(checkout.webUrl);
+  document.querySelector(".check-out").setAttribute("href", checkout.webUrl);
+  document.querySelector(".cart sup").innerHTML = localStorage.lineItems
+    ? JSON.parse(localStorage.lineItems).length
+    : checkout.lineItems.length;
 }
 
-
-function addProducttoLocalStorage(lineItem){
-  if(!localStorage.lineItems)
-    localStorage.setItem('lineItems',[]);
+function addProducttoLocalStorage(lineItem) {
+  if (!localStorage.lineItems) localStorage.setItem("lineItems", []);
   let templineItems = lineItem;
-  if(localStorage.lineItems.length>0){
-    templineItems = [JSON.parse(localStorage.lineItems) , ...lineItem].flat();
+  if (localStorage.lineItems.length > 0) {
+    templineItems = [JSON.parse(localStorage.lineItems), ...lineItem].flat();
     // console.log("--------final-----------")
     // console.log(templineItems)
-  }
-  else
-    templineItems = [...lineItem].flat();
-  localStorage.lineItems = JSON.stringify(templineItems)
-  updateCheckoutLink(templineItems);
+  } else templineItems = [...lineItem].flat();
+  localStorage.lineItems = JSON.stringify(templineItems);
 }
 
 try {
-  
   var client = Client.buildClient({
     // domain: "dijih42627.myshopify.com",
     // storefrontAccessToken: "2ecb38cb90dfbe8ec5f2183160f1f6a8",
@@ -71,28 +62,30 @@ try {
     console.log(localStorage.checkout_id);
   });
 
-
   // CHeccking if local storage has line items(products) for cart
-  if(localStorage.lineItems){
+  if (localStorage.lineItems) {
     let lineItems = JSON.parse(localStorage.lineItems);
     client.checkout
-    .addLineItems(localStorage.checkout_id, lineItems)
-    .then((checkout) => {
-      console.log("Got Previous Prods from local storage"); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
-      console.log(checkout); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
-      updateCheckoutLink(checkout);
-      // localStorage.setItem("checkout", JSON.stringify(checkout));
-    });
+      .addLineItems(localStorage.checkout_id, lineItems)
+      .then((checkout) => {
+        console.log("Got Previous Prods from local storage"); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
+        console.log(checkout); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
+        updateCheckoutLink(checkout);
+        // localStorage.setItem("checkout", JSON.stringify(checkout));
+      });
   }
 
   document.querySelector(".products").addEventListener("click", (e) => {
     if (!e.target.classList.contains("add-to-cart")) return;
     const productId = e.target.dataset.productId;
-    const lineItemsToAdd = [{ variantId: productId, quantity: 1 }];
+    let oldlineItems = JSON.parse(localStorage.lineItems);
+    let lineItemsToAdd = [{ variantId: productId, quantity: 1 }];
+    let combinedLineItems = oldlineItems.length>0 ? [...oldlineItems, ...lineItemsToAdd] : lineItemsToAdd;
     client.checkout
-      .addLineItems(localStorage.checkout_id, lineItemsToAdd)
+      .addLineItems(localStorage.checkout_id, combinedLineItems)
       .then((checkout) => {
         addProducttoLocalStorage(lineItemsToAdd);
+        updateCheckoutLink(checkout);
         console.log("checkout after Adding Item"); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
         console.log(checkout); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
         // localStorage.setItem("checkout", JSON.stringify(checkout));
@@ -102,8 +95,7 @@ try {
   console.log(err);
 }
 
-
-document.querySelector('.clear').addEventListener('click', ()=>{
+document.querySelector(".clear").addEventListener("click", () => {
   localStorage.clear();
-  updateCheckoutLink();
-})
+  // updateCheckoutLink(checkout);
+});
