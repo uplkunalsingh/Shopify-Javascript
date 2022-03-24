@@ -21,14 +21,11 @@ function renderProducts(products) {
   });
 }
 
-function updateCheckoutLink() {
-  if(localStorage.checkout_id){
-
-    client.checkout.fetch(localStorage.checkout_id).then((checkout) => {
+function updateCheckoutLink(checkout) {
+  if(localStorage.checkout_id && localStorage.lineItems){
       console.log(checkout.webUrl);
       document.querySelector(".check-out").setAttribute("href", checkout.webUrl);
       document.querySelector(".cart sup").innerHTML = localStorage.lineItems ? JSON.parse(localStorage.lineItems).length :  checkout.lineItems.length;
-    });
   }
   else{
     console.log("no checkout id");
@@ -52,6 +49,7 @@ function addProducttoLocalStorage(lineItem){
 }
 
 try {
+  
   var client = Client.buildClient({
     // domain: "dijih42627.myshopify.com",
     // storefrontAccessToken: "2ecb38cb90dfbe8ec5f2183160f1f6a8",
@@ -82,7 +80,7 @@ try {
     .then((checkout) => {
       console.log("Got Previous Prods from local storage"); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
       console.log(checkout); // Quantity of line item 'Z2lkOi8vc2hvcGlmeS9Qcm9kdWN0Lzc4NTc5ODkzODQ=' updated to 2
-      updateCheckoutLink();
+      updateCheckoutLink(checkout);
       // localStorage.setItem("checkout", JSON.stringify(checkout));
     });
   }
