@@ -22,11 +22,17 @@ function renderProducts(products) {
 }
 
 function updateCheckoutLink() {
-  client.checkout.fetch(localStorage.checkout_id).then((checkout) => {
-    console.log(checkout.webUrl);
-    document.querySelector(".check-out").setAttribute("href", checkout.webUrl);
-    document.querySelector(".cart sup").innerHTML = localStorage.lineItems ? JSON.parse(localStorage.lineItems).length :  checkout.lineItems.length;
-  });
+  if(localStorage.checkout_id){
+
+    client.checkout.fetch(localStorage.checkout_id).then((checkout) => {
+      console.log(checkout.webUrl);
+      document.querySelector(".check-out").setAttribute("href", checkout.webUrl);
+      document.querySelector(".cart sup").innerHTML = localStorage.lineItems ? JSON.parse(localStorage.lineItems).length :  checkout.lineItems.length;
+    });
+  }
+  else{
+    console.log("no checkout id");
+  }
 }
 
 
@@ -42,6 +48,7 @@ function addProducttoLocalStorage(lineItem){
   else
     templineItems = [...lineItem].flat();
   localStorage.lineItems = JSON.stringify(templineItems)
+  updateCheckoutLink(templineItems);
 }
 
 try {
@@ -69,7 +76,6 @@ try {
 
   // CHeccking if local storage has line items(products) for cart
   if(localStorage.lineItems){
-
     let lineItems = JSON.parse(localStorage.lineItems);
     client.checkout
     .addLineItems(localStorage.checkout_id, lineItems)
@@ -85,7 +91,6 @@ try {
     if (!e.target.classList.contains("add-to-cart")) return;
     const productId = e.target.dataset.productId;
     const lineItemsToAdd = [{ variantId: productId, quantity: 1 }];
-    updateCheckoutLink(lineItemsToAdd);
     client.checkout
       .addLineItems(localStorage.checkout_id, lineItemsToAdd)
       .then((checkout) => {
@@ -98,3 +103,9 @@ try {
 } catch (err) {
   console.log(err);
 }
+
+
+document.querySelector('.clear').addEventListener('click', ()=>{
+  localStorage.clear();
+  updateCheckoutLink();
+})
