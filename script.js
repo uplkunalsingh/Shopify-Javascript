@@ -78,7 +78,7 @@ try {
   document.querySelector(".products").addEventListener("click", (e) => {
     if (!e.target.classList.contains("add-to-cart")) return;
     const productId = e.target.dataset.productId;
-    let oldlineItems = JSON.parse(localStorage.lineItems);
+    let oldlineItems = localStorage.lineItems ? JSON.parse(localStorage.lineItems): []
     let lineItemsToAdd = [{ variantId: productId, quantity: 1 }];
     let combinedLineItems = oldlineItems.length>0 ? [...oldlineItems, ...lineItemsToAdd] : lineItemsToAdd;
     client.checkout
