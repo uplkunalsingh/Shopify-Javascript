@@ -91,7 +91,8 @@ try {
         // localStorage.setItem("checkout", JSON.stringify(checkout));
       });
   });
-} catch (err) {
+}
+catch (err) {
   const errBlock = document.querySelector(".error");
   errBlock.innerHTML= `
     <div>
@@ -102,6 +103,12 @@ try {
 }
 
 document.querySelector(".clear").addEventListener("click", () => {
-  localStorage.clear();
+  let lineItemIdsToRemove = JSON.parse(localStorage.lineItems).map(el => el.variantId);
+  console.log(lineItemIdsToRemove )
+  client.checkout.removeLineItems(localStorage.checkout_id, lineItemIdsToRemove).then((checkout) => {
+    console.log(checkout.lineItems); 
+    console.log("items removed");
+  });
+  delete localStorage.lineItems;
   // updateCheckoutLink(checkout);
 });
