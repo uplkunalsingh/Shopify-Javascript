@@ -9,7 +9,7 @@ class Shopify {
       storefrontAccessToken: "2eb3f2aff694f5f274f11ca7a67f49d5",
     })
     this.getProducts()
-    document.addEventListener('click', e => this.onClick(e))
+    //document.addEventListener('click', e => this.onClick(e))
     store.subscribe(() => console.log(store.getState()))
   }
 
@@ -28,7 +28,7 @@ class Shopify {
 
   renderProducts(products) {
     let html = products.map(product => {
-      return `<div class="shadow-md flex flex-col justify-between border border-gray-100 cursor-pointer hover:shadow-xl" id="${product.id}">
+      return htm`<div class="shadow-md flex flex-col justify-between border border-gray-100 cursor-pointer hover:shadow-xl" id="${product.id}">
       <p class="text-center">
         <img style="max-height:200px !important; margin:0 auto;" src="${product.images[0].src}" alt="${product.title}" />
       </p>
@@ -38,10 +38,18 @@ class Shopify {
             <p>$${product.variants[0].price}</p>
           </div>
       </div>
-    <button class="addToCart font-semibold bg-indigo-700 py-2 px-2 text-white w-full" data-product-id="${product.variants[0].id}">Add to cart</button>  
+      <button onClick=${() => this.addTodo()} class="addToCart font-semibold bg-indigo-700 py-2 px-2 text-white w-full" data-product-id="${product.variants[0].id}">Add to cart</button>  
+
     </div>`
     }).join("")
+
+
+
     document.querySelector('.products').innerHTML = html;
+  }
+
+  addTodo(e) {
+    console.log(e);
   }
 
   updateCheckoutLink() {

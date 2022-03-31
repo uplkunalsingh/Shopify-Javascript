@@ -9,17 +9,12 @@
   <script src="https://cdn.tailwindcss.com"></script>
 </head>
 
-<body>
+<body x-data="{ cart_drawer: false }">
   <header
     class="bg-white border-b-2 border-indigo-700 p-2 sticky top-0 w-full flex flex-col justify-center gap-4 p-4 mb-4">
     <div class="container max-w-5xl mx-auto flex justify-between items-center">
       <h2 class="text-xl font-bold text-indigo-700">Shopify</h2>
-      <a target="_blank"
-        class="clear cursor-pointer bg-indigo-800 p-2 min-w-[140px] text-center text-white font-semibold">Clear</a>
-      <a target="_blank"
-        class="check-out cursor-pointer bg-indigo-800 p-2 min-w-[140px] text-center text-white font-semibold">Check
-        Out</a>
-      <div class="cart flex">
+      <button class="cart flex" @click="cart_drawer = true">
         <svg class="w-6 h-6" fill="none" stroke="currentColor" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
             d="M3 3h2l.4 2M7 13h10l4-8H5.4M7 13L5.4 5M7 13l-2.293 2.293c-.63.63-.184 1.707.707 1.707H17m0 0a2 2 0 100 4 2 2 0 000-4zm-8 2a2 2 0 11-4 0 2 2 0 014 0z">
@@ -27,15 +22,218 @@
         </svg>
         <sup
           class="bg-indigo-700 rounded-[100%] h-5 w-5 flex items-center justify-center text-white font-semibold">0</sup>
-      </div>
+      </button>
     </div>
   </header>
   <div class="container max-w-5xl mx-auto">
-    <div class="products grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 p-4"></div>
+    <div class="products grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-8 py-4"></div>
   </div>
+  <div x-show="cart_drawer"
+    class="py-8 px-4 min-h-screen w-96 bg-white fixed top-0 right-0 translate-y-full translate-y-0 transition-all duration-300 ease-in overflow-x-auto h-full">
+    <button class="cart flex fixed top-5 right-5" @click="cart_drawer = false">
+      <svg xmlns="http://www.w3.org/2000/svg" class="h-5 w-5" viewBox="0 0 20 20" fill="currentColor">
+        <path fill-rule="evenodd"
+          d="M4.293 4.293a1 1 0 011.414 0L10 8.586l4.293-4.293a1 1 0 111.414 1.414L11.414 10l4.293 4.293a1 1 0 01-1.414 1.414L10 11.414l-4.293 4.293a1 1 0 01-1.414-1.414L8.586 10 4.293 5.707a1 1 0 010-1.414z"
+          clip-rule="evenodd" />
+      </svg>
+    </button>
+    <div class="cart-wrapper" id="cartItems">
+    </div>
+    <button class="bg-indigo-700 rounded text-white py-2 px-4 checkout">Checkout</button>
+  </div>
+  <script src="//unpkg.com/alpinejs"></script>
+  <script src="http://sdks.shopifycdn.com/js-buy-sdk/v2/latest/index.umd.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/redux/4.1.2/redux.min.js"></script>
+  <script>
+    const client = ShopifyBuy.buildClient({
+      domain: "pdiarm.myshopify.com",
+      storefrontAccessToken: "2eb3f2aff694f5f274f11ca7a67f49d5",
+    })
+    let allProducts;
 
-  <script src="https://cdnjs.cloudflare.com/ajax/libs/redux/4.1.2/redux.min.js" type="module"></script>
-  <script src="app.js" type="module"></script>
+    const productAdded = (product) => ({
+      type: "PRODUCT_ADDED",
+      payload: product
+    })
+
+    const productRemoved = id => ({
+      type: "PRODUCT_REMOVED",
+      payload: { id }
+    })
+
+    const addQuantity = id => ({
+      type: "ADD_QUANTITY",
+      payload: { id }
+    })
+
+    const subQuantity = id => ({
+      type: "SUB_QUANTITY",
+      payload: { id }
+    })
+
+
+    function reducer(state = [], action) {
+      if (action.type === "PRODUCT_ADDED") {
+        return [...state, action.payload]
+      } else if (action.type === "PRODUCT_REMOVED") {
+        return state.filter(product => product.id !== action.payload.id)
+      } else if (action.type === "ADD_QUANTITY") {
+        return state.map(product => {
+          if (product.id === action.payload.id) {
+            return {
+              ...product,
+              quantity: product.quantity + 1
+            }
+          } else {
+            return product
+          }
+        })
+      } else if (action.type === "SUB_QUANTITY") {
+        return state.map(product => {
+          if (product.id === action.payload.id) {
+            return {
+              ...product,
+              quantity: product.quantity - 1
+            }
+          } else {
+            return product
+          }
+        })
+      } else {
+        return state
+      }
+    }
+
+    const key = "shopify-cart-store";
+    let store = Redux.createStore(reducer, JSON.parse(localStorage.getItem(key)) || [])
+
+
+    function updateItems() {
+      const cart = store.getState()
+      document.querySelector(".cart sup").innerText = cart.length
+      localStorage.setItem(key, JSON.stringify(cart))
+      renderCartItems()
+      console.log(cart);
+    }
+    updateItems()
+
+    store.subscribe(() => {
+      updateItems()
+    })
+
+    function renderCartItems() {
+      document.getElementById("cartItems").innerHTML = '';
+      const cart = store.getState()
+      let html = cart.map(product => {
+        return `
+        <div class="cart-item flex flex-col justify-between p-4">
+          <div class="flex flex-col">
+            <img src="${product.image}" alt="${product.title}" class="w-16 h-16">
+            <div class="flex flex-col justify-between">
+              <h3 class="text-xl font-bold">${product.title}</h3>
+            </div>
+          </div>
+          <div class="flex flex-col justify-between">
+            <div class="flex flex-col">
+              <div>
+                <button class="sub bg-indigo-700 rounded text-white py-2 px-4" data-product-id="${product.id}">-</button>
+                <span class="text-2xl font-bold">${product.quantity}</span>
+                <button class="plus bg-indigo-700 rounded text-white py-2 px-4" data-product-id="${product.id}">+</button>
+              </div>
+              <p class="text-sm">Price: ${parseFloat(product.price) * product.quantity}</p>
+            </div>
+            <button class="remove-item" data-product-id="${product.id}">Remove</button>
+          </div>
+        </div>`
+      }).join('')
+      document.getElementById("cartItems").innerHTML = html;
+    }
+
+
+    function getProducts() {
+      try {
+        client.product.fetchQuery({ first: 250, query: "available_for_sale:true" }).then((products) => {
+          allProducts = products;
+          renderProducts(products);
+        })
+      } catch (error) {
+        console.error(error)
+      }
+    }
+
+    function renderProducts(products) {
+      let html = products.map(product => {
+        return `<div class="shadow-md flex flex-col justify-between border border-gray-100 cursor-pointer hover:shadow-xl" id="${product.id}">
+        <p class="text-center">
+          <img style="max-height:200px !important; margin:0 auto;" src="${product.images[0].src}" alt="${product.title}" />
+        </p>
+        <div class="p-4">
+            <div class="flex justify-between items-center">
+              <h3 class="font-bold">${product.title}</h3>
+              <p>$${parseFloat(product.variants[0].price)}</p>
+            </div>
+        </div>
+        <button data-product-id="${product.id}" class="addToCart font-semibold bg-indigo-700 py-2 px-2 text-white w-full">Add to cart</button>  
+      </div>`
+      }).join("")
+      document.querySelector('.products').innerHTML = html;
+    }
+
+
+    getProducts()
+    document.addEventListener('click', e => {
+      const el = e.target;
+      if (el.classList.contains('addToCart')) {
+        const productId = el.dataset.productId;
+        const cart = store.getState()
+        if (cart.findIndex(product => product.id === productId) === -1) {
+          const product = allProducts.find(product => product.id === productId);
+          console.log(product);
+          const lineItemtoAdd = {
+            id: product.id,
+            variantId: product.variants[0].id,
+            quantity: 1,
+            title: product.title,
+            price: product.variants[0].price,
+            image: product.images[0].src
+          }
+          store.dispatch(productAdded(lineItemtoAdd))
+        } else {
+          store.dispatch(addQuantity(productId))
+        }
+      }
+      if (el.classList.contains('remove-item')) {
+        const productId = el.dataset.productId;
+        store.dispatch(productRemoved(productId))
+      }
+      if (el.classList.contains('sub')) {
+        const productId = el.dataset.productId;
+        console.log(productId);
+        store.dispatch(subQuantity(productId))
+      }
+      if (el.classList.contains('plus')) {
+        const productId = el.dataset.productId;
+        console.log(productId);
+        store.dispatch(addQuantity(productId))
+      }
+
+      if (el.classList.contains('checkout')) {
+        const cart = store.getState()
+        const lineItems = cart.map(product => {
+          return {
+            variantId: product.variantId,
+            quantity: product.quantity
+          }
+        })
+        client.checkout.create({
+          lineItems: lineItems
+        }).then((checkout) => {
+          window.open(checkout.webUrl, '_blank');
+        })
+      }
+    })
+
+  </script>
 </body>
 
 </html>
