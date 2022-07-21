@@ -1,0 +1,4102 @@
+[
+  {
+      "name": "AutoML Summit",
+      "link": "https://www.re-work.co/events/automl-summit-telaviv-2022",
+      "title": "",
+      "description": "<span>Discover how to automate applying machine learning to solve challenges through AutoML. Learn from pioneers in areas such as Neural Architecture Search, Hyperparameter Optimization, Automated Data Mining, Reporducability, Trustworthy AI and End-to-End Delivery.</span>",
+      "city": "Tel Aviv",
+      "date": "25 - 26 January 2023",
+      "start_date": "2023-01-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-24.jpg",
+      "location": [
+          "Tel Aviv"
+      ],
+      "topic": [
+          "AutoML"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-telaviv-2022",
+      "title": "",
+      "description": "<span>The Deep Learning Summit explores the latest breakthroughs from researchers in the field of Deep Learning. Discover ways to overcome obstacles in developing and deploying deep neural networks as well as novel algorithmic advancements from leading academics and industry professionals.</span>",
+      "city": "Tel Aviv",
+      "date": "25 - 26 January 2023",
+      "start_date": "2023-01-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-25.jpg",
+      "location": [
+          "Tel Aviv"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-nordics-2022",
+      "title": "",
+      "description": "<span>The Deep Learning Summit explores the latest breakthroughs from researchers in the field of Deep Learning. Discover ways to overcome obstacles in developing and deploying deep neural networks as well as novel algorithmic advancements from leading academics and industry professionals.</span>",
+      "city": "Stockholm",
+      "date": "07 - 08 December 2022",
+      "start_date": "2022-12-06T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-23.jpeg",
+      "location": [
+          "Stockholm"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-auckland-2022",
+      "title": "",
+      "description": "<span>The Deep Learning Summit explores the latest breakthroughs from researchers in the field of Deep Learning. Discover ways to overcome obstacles in developing and deploying deep neural networks as well as novel algorithmic advancements from leading researchers and industry professionals.</span>",
+      "city": "Auckland",
+      "date": "29 - 30 November 2022",
+      "start_date": "2022-11-28T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-22.jpg",
+      "location": [
+          "Auckland"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Enterprise AI Summit",
+      "link": "https://www.re-work.co/events/enterprise-ai-summit-auckland-2022",
+      "title": "",
+      "description": "<span>Machine Learning is now driving forward rapid innovation in AI and across business. The Enterprise AI Summit will feature the latest AI applications enabled via machine learning &amp; deep learning to help businesses realize the untapped potential for AI to transform the enterprise.</span>",
+      "city": "Auckland",
+      "date": "29 - 30 November 2022",
+      "start_date": "2022-11-28T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-21.jpg",
+      "location": [
+          "Auckland"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Enterprise AI Summit South Africa",
+      "link": "#",
+      "title": "",
+      "description": "<h3>Apply AI in Business &amp; Achieve ROI</h3>",
+      "city": "JOHANNESBURG",
+      "date": "22 - 23 November 2022",
+      "start_date": "2022-11-21T18:30:00.000Z",
+      "featured_image": "",
+      "location": [],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-toronto-2022",
+      "title": " Part of the Toronto AI Summit",
+      "description": "<span>The Deep Learning Summit is the next revolution in AI. The increasingly popular branch of machine learning explores advances in methods such as image analysis, GANs, NLP, and neural network research. This summit will explore the latest research advancements and trends from global pioneers in the ...</span>",
+      "city": "Toronto, Canada",
+      "date": "09 - 10 November 2022",
+      "start_date": "2022-11-08T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-19.jpg",
+      "location": [
+          "Toronto, Canada"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "MLOps Summit",
+      "link": "https://www.re-work.co/events/mlops-summit-london-2022",
+      "title": "",
+      "description": "<span>The MLOps Summit will explore how to build an effective MLOps infrastructure and take advantage of innovative solutions for data lifecycle management. What are the best practices for efficiently training &amp; deploying models? How can DevOps methodology be successfully applied in the ML workflow?</span>",
+      "city": "London",
+      "date": "09 - 10 November 2022",
+      "start_date": "2022-11-08T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-18.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "MLOps"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Finance Summit",
+      "link": "https://www.re-work.co/events/ai-in-finance-summit-toronto-2022",
+      "title": " Part of the Toronto AI Summit",
+      "description": "<span>The AI in Finance Summit brings together data scientists, engineers, CTOs, CEOs &amp; leading financial corporations to explore the impact of AI in the financial sector. Applications include identifying and preventing risks, revolutionising financial forecasting &amp; compliance. </span>",
+      "city": "Toronto, Canada",
+      "date": "09 - 10 November 2022",
+      "start_date": "2022-11-08T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-20.jpg",
+      "location": [
+          "Toronto, Canada"
+      ],
+      "topic": [
+          "Finance"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-toronto",
+      "title": "",
+      "description": "<span>Leading minds in artificial intelligence will come together for an evening of networking and keynote presentations. Join us for a three course dinner to support women in AI and Machine Intelligence.</span>",
+      "city": "Toronto",
+      "date": "9 November 2022",
+      "start_date": "2022-11-08T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-17.jpg",
+      "location": [
+          "Toronto"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-melbourne-2022",
+      "title": "",
+      "description": "<span>The Deep Learning Summit explores the latest breakthroughs from researchers in the field of Deep Learning. Discover ways to overcome obstacles in developing and deploying deep neural networks as well as novel algorithmic advancements from leading researchers and industry professionals.</span>",
+      "city": "Melbourne",
+      "date": "25 - 26 October 2022",
+      "start_date": "2022-10-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-16.jpg",
+      "location": [
+          "Melbourne"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Enterprise AI Summit",
+      "link": "https://www.re-work.co/events/enterprise-ai-summit-melbourne-2022",
+      "title": "",
+      "description": "<span>Machine Learning is now driving forward rapid innovation in AI and across business. The Enterprise AI Summit will feature the latest AI applications enabled via machine learning &amp; deep learning to help businesses realize the untapped potential for AI to transform the enterprise.</span>",
+      "city": "Melbourne",
+      "date": "25 - 26 October 2022",
+      "start_date": "2022-10-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-15.jpg",
+      "location": [
+          "Melbourne"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Enterprise AI Summit",
+      "link": "https://www.re-work.co/events/enterprise-ai-summit-melbourne-2022",
+      "title": "",
+      "description": "<span>Machine Learning is now driving forward rapid innovation in AI and across business. The Enterprise AI Summit will feature the latest AI applications enabled via machine learning &amp; deep learning to help businesses realize the untapped potential for AI to transform the enterprise.</span>",
+      "city": "Melbourne",
+      "date": "25 - 26 October 2022",
+      "start_date": "2022-10-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-15.jpg",
+      "location": [
+          "Melbourne"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-sydney-2022",
+      "title": "",
+      "description": "<span>The Deep Learning Summit explores the latest breakthroughs from researchers in the field of Deep Learning. Discover ways to overcome obstacles in developing and deploying deep neural networks as well as novel algorithmic advancements from leading researchers and industry professionals.</span>",
+      "city": "Sydney",
+      "date": "17 - 18 October 2022",
+      "start_date": "2022-10-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-14.jpg",
+      "location": [
+          "Sydney"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Enterprise AI Summit",
+      "link": "https://www.re-work.co/events/enterprise-ai-summit-sydney-2022",
+      "title": "",
+      "description": "<span>Machine Learning is now driving forward rapid innovation in AI and across business. The Enterprise AI Summit will feature the latest AI applications enabled via machine learning &amp; deep learning to help businesses realize the untapped potential for AI to transform the enterprise.</span>",
+      "city": "Sydney",
+      "date": "17 - 18 October 2022",
+      "start_date": "2022-10-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-13.jpg",
+      "location": [
+          "Sydney"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Healthcare Summit",
+      "link": "https://www.re-work.co/events/ai-in-healthcare-summit-2022",
+      "title": "",
+      "description": "<span>The AI in Healthcare Summit will explore breakthroughs in technical advancements and healthcare applications with industry experts, academics, and healthcare professionals. From algorithms that learn to recognize complex patterns within rich medical data to analyzing real-world evidence for pers...</span>",
+      "city": "Boston",
+      "date": "13 - 14 October 2022",
+      "start_date": "2022-10-12T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-12.jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Enterprise AI Summit",
+      "link": "#",
+      "title": "",
+      "description": "<h3>The Enterprise AI Summit brings together senior-level business executives and data practitioners to explore AI applications in the real-world to transform your ROI, increase efficiencies and ensure scalability.</h3>",
+      "city": "Berlin",
+      "date": "05 - 06 October 2022",
+      "start_date": "2022-10-04T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/CoriniumIntelligence_June2018/Img/Corinium_About_conference_08.jpg",
+      "location": [
+          "Berlin"
+      ],
+      "topic": [
+          "Conversational AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "#",
+      "title": "",
+      "description": "<h3>Explore how deep learning will impact and solve challenges in industry and society through diverse applications.</h3>",
+      "city": "Berlin",
+      "date": "05 - 06 October 2022",
+      "start_date": "2022-10-04T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Conference.jpg",
+      "location": [
+          "Berlin"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-berlin-2022",
+      "title": " Part of the Berlin AI Summit",
+      "description": "<span>Discover advances in deep learning from the world's leading innovators. Learn from the industry experts in data manipulation, novel training techniques, and new learning environments. Explore how deep learning will impact industry and society through diverse applications. The summit will showc...</span>",
+      "city": "Berlin",
+      "date": "05 - 06 October 2022",
+      "start_date": "2022-10-04T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-11.jpg",
+      "location": [
+          "Berlin"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Enterprise AI Summit",
+      "link": "https://www.re-work.co/events/enterprise-ai-summit-berlin-2022",
+      "title": " Part of the Berlin AI Summit",
+      "description": "<span>Industry leaders and AI influencers will share insights on cutting-edge technical advancements and real-life adoption, application and impact of AI within a cross industry setting. The summit will explore how the top organisations are utilising AI and Machine Learning for company-wide ROI, whi...</span>",
+      "city": "Berlin",
+      "date": "05 - 06 October 2022",
+      "start_date": "2022-10-04T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-10.jpg",
+      "location": [
+          "Berlin"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-singapore-2022",
+      "title": " Part of the Singapore Deep Learning and Enterprise AI Summits",
+      "description": "<span>The Deep Learning Summit explores the latest breakthroughs from researchers in the field of Deep Learning. Discover ways to overcome obstacles in developing and deploying deep neural networks as well as novel algorithmic advancements from leading researchers and industry professionals.</span>",
+      "city": "Singapore",
+      "date": "20 September 2022",
+      "start_date": "2022-09-19T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-9.jpg",
+      "location": [
+          "Singapore"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Enterprise AI Summit",
+      "link": "https://www.re-work.co/events/enterprise-ai-summit-singapore-2022",
+      "title": " Part of the Singapore Deep Learning and Enterprise AI Summits",
+      "description": "<span>Machine Learning is now driving forward rapid innovation in AI and across business. The Enterprise AI Summit will feature the latest AI applications enabled via machine learning &amp; deep learning to help businesses realize the untapped potential for AI to transform the enterprise.</span>",
+      "city": "Singapore",
+      "date": "20 September 2022",
+      "start_date": "2022-09-19T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-8.jpg",
+      "location": [
+          "Singapore"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-london-2022",
+      "title": " Part of the London AI Summit",
+      "description": "<span>The Deep Learning Summit explores the latest breakthroughs from researchers as well as real-world applications. Discover ways to overcome obstacles in developing and deploying deep neural networks as well as novel algorithmic advancements from leading academics and industry professionals.</span>",
+      "city": "London",
+      "date": "14 - 15 September 2022",
+      "start_date": "2022-09-13T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-7.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Conversational AI Summit",
+      "link": "https://www.re-work.co/events/conversational-ai-summit-london-2022",
+      "title": " Part of the London AI Summit",
+      "description": "<span>The Conversational AI Summit will showcase technical advancements in NLP and assess the opportunities of deploying Conversational AI agents for varying enterprises.</span>",
+      "city": "London",
+      "date": "14 - 15 September 2022",
+      "start_date": "2022-09-13T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-6.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Conversational AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Retail Summit",
+      "link": "https://www.re-work.co/events/ai-in-retail-summit-london-2022",
+      "title": " Part of the London AI Summit",
+      "description": "<span>The AI in Retail &amp; Marketing Summit is a multidisciplinary event exploring the impact of deep learning and AI in the industry. Applications include computer vision for sizing; image analysis for shopping efficiency; NLP for personalised ads; and AI for search engine optimisation.</span>",
+      "city": "London",
+      "date": "14 - 15 September 2022",
+      "start_date": "2022-09-13T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-5.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Retail"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Reception",
+      "link": "https://www.re-work.co/events/women-in-ai-reception-london-2022",
+      "title": "",
+      "description": "<span>Join us for an evening of thought-provoking discussions, presentations and a networking reception. Support the achievements and advancement of women within the AI industry. The evening is open to all genders! </span>",
+      "city": "London",
+      "date": "14 September 2022",
+      "start_date": "2022-09-13T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/Women%20in%20AI%20Reception%20-1.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Reception",
+      "link": "https://www.re-work.co/events/women-in-ai-reception-westcoast-2022",
+      "title": "",
+      "description": "<span>An evening of discussions &amp; networking around the progress and application of artificial intelligence.</span>",
+      "city": "San Francisco",
+      "date": "15 June 2022",
+      "start_date": "2022-06-14T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/Women%20in%20AI%20Reception.jpeg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Trusted AI Summit",
+      "link": "https://www.re-work.co/events/trusted-ai-summit-2022",
+      "title": "Part of the MLOps Summit San Francisco",
+      "description": "<span>The Trusted AI Summit will explore how AI/ML algorithms &amp; models should be created to produce fair outcomes, alleviate bias &amp; ensure accountability. Assess the implications of AI automation by analyzing technical monitoring, policy implications, data governance &amp; the security of systems. </span>",
+      "city": "San Francisco",
+      "date": "15 - 16 June 2022",
+      "start_date": "2022-06-14T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/Trusted%20AI%20Summit.jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Trusted AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "MLOps Summit",
+      "link": "https://www.re-work.co/events/mlops-summit-2022",
+      "title": "Part of the MLOps Summit San Francisco",
+      "description": "<span>The MLOps Summit will explore how to build an effective MLOps infrastructure and take advantage of innovative solutions for data lifecycle management. What are the best practices for efficiently training &amp; deploying models? How can DevOps methodology be successfully applied in the ML workflow?</span>",
+      "city": "San Francisco",
+      "date": "15 - 16 June 2022",
+      "start_date": "2022-06-14T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/MLOps%20Summit.jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "MLOps"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in RegTech Summit",
+      "link": "https://www.re-work.co/events/ai-in-regtech-summit-newyork-2022",
+      "title": "Part of the New York Summit",
+      "description": "<span>The AI in RegTech Summit brings together data scientists, data governance experts, heads of compliance, risk managers &amp; regulators to explore the opportunities and challenges of adopting AI &amp; machine learning throughout RegTech. </span>",
+      "city": "New York",
+      "date": "22 April 2022",
+      "start_date": "2022-04-21T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-27.jpeg",
+      "location": [
+          "New York"
+      ],
+      "topic": [
+          "Finance"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Insurance Summit",
+      "link": "https://www.re-work.co/events/ai-in-insurance-summit-new-york-2022",
+      "title": " Part of the New York Summit",
+      "description": "The AI in Insurance Summit explores the impact of AI, ML &amp;amp; DL in the insurance sector. Applications include revolutionising claims processing, underwriting automation &amp;amp; customer personalization. Discover the latest technology trends &amp;amp; innovations with technical business leaders across the industry.",
+      "city": "New York",
+      "date": "21 April 2022",
+      "start_date": "2022-04-20T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large.jpg",
+      "location": [
+          "New York"
+      ],
+      "topic": [
+          "Insurance"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Finance Summit",
+      "link": "https://www.re-work.co/events/ai-in-finance-summit-new-york-2022",
+      "title": "Part of the New York Summit",
+      "description": "<span>Explore the latest AI tools &amp; techniques and their application in the financial sector with data scientists, ML engineers, researchers &amp; CTOs across the industry. Applications include wealth and portfolio management, retail banking, trading &amp; payments innovation.</span>",
+      "city": "New York",
+      "date": "21 - 22 April 2022",
+      "start_date": "2022-04-20T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-26.jpg",
+      "location": [
+          "New York"
+      ],
+      "topic": [
+          "Finance"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Finance Summit",
+      "link": "https://www.re-work.co/events/ai-in-finance-summit-london-2022",
+      "title": " Part of the London AI Finance Summit",
+      "description": "<span>Explore the latest AI tools &amp; techniques and their application in the financial sector with data scientists, ML engineers, researchers &amp; CTOs across the industry. Applications include wealth and portfolio management, retail banking, trading &amp; payments innovation.</span>",
+      "city": " London",
+      "date": "17 - 18 March 2022",
+      "start_date": "2022-03-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(3).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Finance"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Reception",
+      "link": "https://www.re-work.co/events/women-in-ai-evening-london",
+      "title": "",
+      "description": "<span>Join us for an evening of thought-provoking discussions, presentations and a networking reception. Support the achievements and advancement of women within the AI industry. The evening is open to all genders! </span>",
+      "city": " London",
+      "date": "17 March 2022",
+      "start_date": "2022-03-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(4).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Insurance Summit",
+      "link": "https://www.re-work.co/events/ai-in-insurance-summit-london-2022",
+      "title": " Part of the London AI Finance Summit",
+      "description": "<span>The AI in Insurance Summit explores the impact of AI, ML &amp; DL in the insurance sector. Applications include revolutionising claims processing, underwriting automation &amp; customer personalization. Discover the latest technology trends &amp; innovations with technical business leaders across the industry.</span>",
+      "city": " London",
+      "date": "17 - 18 March 2022",
+      "start_date": "2022-03-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(2).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Insurance"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in RegTech Summit",
+      "link": "https://www.re-work.co/events/ai-in-regtech-summit-london-2022",
+      "title": " Part of the London AI Finance Summit",
+      "description": "<span>The AI in RegTech Summit brings together data scientists, data governance experts, heads of compliance, risk managers &amp; regulators to explore the opportunities and challenges of adopting AI &amp; machine learning throughout RegTech. </span>",
+      "city": " London",
+      "date": "17 - 18 March 2022",
+      "start_date": "2022-03-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(1).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Insurance"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Reinforcement Learning Summit",
+      "link": "https://www.re-work.co/events/reinforcement-learning-summit-2022",
+      "title": " Part of the Deep Learning Hybrid Summit",
+      "description": "<span>The Reinforcement Learning Summit explores the training of ML models for decision making, using the notion of rewards to enable an agent to learn in an interactive environment by trial-and-error &amp; feedback to take a step closer to human-level performance.</span>",
+      "city": "  San Francisco",
+      "date": "17 - 18 February 2022",
+      "start_date": "2022-02-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(8).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI Ethics Summit",
+      "link": "https://www.re-work.co/events/ai-ethics-summit-2022",
+      "title": " Part of the Deep Learning Hybrid Summit",
+      "description": "<span>The AI Ethics Summit will explore the ethical considerations and responsibility of stakeholders deploying AI, including recommendations on positive next steps to put reflections into practice for the common good.</span>",
+      "city": "  San Francisco",
+      "date": "17 - 18 February 2022",
+      "start_date": "2022-02-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(6).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-2022",
+      "title": " Part of the Deep Learning Hybrid Summit",
+      "description": "The Deep Learning Summit explores the latest breakthroughs from researchers in the field of Deep Learning. Discover ways to overcome obstacles in developing and deploying deep neural networks as well as novel algorithmic advancements from leading academics and industry professionals.",
+      "city": "  San Francisco",
+      "date": "17 - 18 February 2022",
+      "start_date": "2022-02-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(7).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Enterprise AI Summit",
+      "link": "https://www.re-work.co/events/enterprise-ai-summit-2022",
+      "title": " Part of the Deep Learning Hybrid Summit",
+      "description": "<span>Machine Learning is now driving forward rapid innovation in AI and across business. The Enterprise AI Summit will feature the latest AI applications enabled via machine learning &amp; deep learning to help businesses realize the untapped potential for AI to transform the enterprise.</span>",
+      "city": "  San Francisco",
+      "date": "17 - 18 February 2022",
+      "start_date": "2022-02-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(5).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Virtual",
+      "link": "https://www.re-work.co/events/women-in-ai-virtual-2021",
+      "title": "",
+      "description": "<span>Leading minds in artificial intelligence will come together for an evening of networking, presentations and meaningful discussions on diversity, inclusion, the importance of allies &amp; mentors and much more.</span>",
+      "city": " Online",
+      "date": "9 November 2021",
+      "start_date": "2021-11-08T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(9).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Conversational AI in Retail Summit",
+      "link": "https://www.re-work.co/events/conversational-ai-in-retail-summit",
+      "title": " Part of the Conversational AI for Enterprise Summit",
+      "description": "How can Conversational AI offer a personalized experience and enhanced level of communication to your customers, as well as a higher level of convenience, speed and automation? Discover how to build loyalty and increase your engagement, as well as reduce customer churn.",
+      "city": " Online",
+      "date": "20 October 2021",
+      "start_date": "2021-10-19T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(10).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Conversational AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Conversational AI in Banking Summit",
+      "link": "https://www.re-work.co/events/conversational-ai-in-retail-summit",
+      "title": " Part of the Conversational AI for Enterprise Summit",
+      "description": "<span>Discover advancements in virtual agents &amp; conversational AI, as well as progress in NLP, NLU &amp; NLG from the world’s leading innovators. Financial Services experts &amp; leading technologists will explore the transformation of the digital customer experience via industry case studies.</span>",
+      "city": " Online",
+      "date": "20 October 2021",
+      "start_date": "2021-10-19T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(11).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Conversational AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Automating Data Annotation with MicroModels",
+      "link": "https://www.re-work.co/events/webinar:automating-data-annotation-with-micromodels",
+      "title": "",
+      "description": "<span>When it comes to AI, your model is only as good as the data it’s trained on. While it’s key to have a human in the loop when creating and verifying training data, automating processes within the workflow improves efficiency while guaranteeing high quality.</span>",
+      "city": " Online",
+      "date": "16 June 2021",
+      "start_date": "2021-06-15T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large.png",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Conversational AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI for Fraud Detection Virtual Summit",
+      "link": "https://www.re-work.co/events/ai-aml-fraud-detection-summit",
+      "title": "",
+      "description": "The AI for Fraud Detection Summit brings together data scientists, data engineers, security experts &amp;amp; risk managers to explore the opportunities and challenges of using AI to detect, predict and prevent fraud.",
+      "city": " Online",
+      "date": "9 June 2021",
+      "start_date": "2021-06-08T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(12).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Conversational AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "MLOps Summit",
+      "link": "https://www.re-work.co/events/mlops-summit-2021",
+      "title": " Part of the MLOps Online Summit",
+      "description": "<span>The MLOps Summit will explore how to build an effective MLOps infrastructure and take advantage of innovative solutions for data lifecycle management. What are the best practices for efficiently training &amp; deploying models? How can DevOps methodology be successfully applied in the ML workflow?</span>",
+      "city": " Online",
+      "date": "2 June 2021",
+      "start_date": "2021-06-01T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(13).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "MLOps"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "ML Fairness Summit",
+      "link": "https://www.re-work.co/events/ml-fairness-summit-2021",
+      "title": " Part of the MLOps Online Summit",
+      "description": "<span>The ML Fairness Summit will explore how ML algorithms &amp; models should be created to produce fair outcomes, alleviate bias &amp; ensure accountability. Assess the implications of AI automation by analyzing technical monitoring, policy implications, data governance &amp; the security of systems. </span>",
+      "city": " Online",
+      "date": "2 June 2021",
+      "start_date": "2021-06-01T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(14).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "MLOps"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Conversational AI & NLP Summit",
+      "link": "https://www.re-work.co/events/conversational-ai-nlp-summit-2021",
+      "title": "",
+      "description": "<span>The Conversational AI &amp; NLP Summit will showcase technical advancements in NLP and assess the opportunities of deploying Conversational AI agents for varying enterprises.</span>",
+      "city": " Online",
+      "date": "28 April 2021",
+      "start_date": "2021-04-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(15).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Conversational AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Finance & RegTech Virtual Summit",
+      "link": "https://www.re-work.co/events/ai-in-finance-summit-2021",
+      "title": " Part of the AI Applications Virtual Summit",
+      "description": "<span>The AI in Finance &amp; RegTech Summit is a multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp; leading financial corporations to explore the impact of AI in the financial sector. Applications include risk management, fraud detection &amp; customer support.</span>",
+      "city": " Online",
+      "date": "14 - 15 April 2021",
+      "start_date": "2021-04-13T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(19).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Insurance Virtual Summit",
+      "link": "https://www.re-work.co/events/ai-in-insurance-summit-2021",
+      "title": " Part of the AI Applications Virtual Summit",
+      "description": "<span>The AI in Insurance Summit brings together data scientists, engineers, CTOs, CEOs &amp; leading insurance corporations to explore the impact of AI in the insurance sector. Applications include identifying and preventing risks, revolutionising claims processing &amp; customer personalisation. </span>",
+      "city": " Online",
+      "date": "14 - 15 April 2021",
+      "start_date": "2021-04-13T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(16).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Insurance"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Retail & Marketing Virtual Summit",
+      "link": "https://www.re-work.co/events/ai-in-retail-summit-2021",
+      "title": " Part of the AI Applications Virtual Summit",
+      "description": "<span>The AI in Retail &amp; Marketing Summit is a multidisciplinary event exploring the impact of deep learning and AI in the industry. Applications include computer vision for sizing; image analysis for shopping efficiency; NLP for personalised ads; and AI for search engine optimisation.</span>",
+      "city": " Online",
+      "date": "14 - 15 April 2021",
+      "start_date": "2021-04-13T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(18).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in FinTech Virtual Summit",
+      "link": "https://www.re-work.co/events/women-in-fintech-2021",
+      "title": " Part of the AI Applications Virtual Summit",
+      "description": "<span>The Women in FinTech Summit is a one-day event bringing together researchers, academics, leading financial corporations &amp; women in STEM advocates to discuss the current landscape of FinTech as a whole, the work of leading females in the field and the progressions of women &amp; diversity in the sector. </span>",
+      "city": " Online",
+      "date": "14 - 15 April 2021",
+      "start_date": "2021-04-13T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(17).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Healthcare & Pharma Virtual Summit",
+      "link": "https://www.re-work.co/events/ai-in-healthcare-summit-2021",
+      "title": " Part of the AI in Healthcare Virtual Summit",
+      "description": "<span>The AI in Healthcare &amp; Pharma Summit explores breakthroughs in technical advancements and healthcare applications with industry experts, academics, and healthcare professionals. It will discover the impact of AI on each stage of a patient's journey: from diagnosis, through treatment. </span>",
+      "city": " Online",
+      "date": "25 - 26 March 2021",
+      "start_date": "2021-03-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(1).png",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Healthcare"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Implementation of AI in Healthcare Virtual Summit",
+      "link": "https://www.re-work.co/events/implementation-ai-healthcare-virtual-2021",
+      "title": " Part of the AI in Healthcare Virtual Summit",
+      "description": "<span>The Summit brings together Decision-Makers &amp; C-Level Executives leveraging AI to increase productivity as well as the efficiency of care delivery. Join fellow key stakeholders to shape the future of healthcare with AI and explore the challenges currently faced in leveraging AI to solve problems.</span>",
+      "city": " Online",
+      "date": "25 - 26 March 2021",
+      "start_date": "2021-03-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(20).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Healthcare"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Explainable AI Mini-Summit",
+      "link": "https://www.re-work.co/events/explainable-ai-summit",
+      "title": " Part of the Mini-Summit Series",
+      "description": "<span>Hear leading pioneers in XAI delve into the latest advancements in explainable techniques including NN Interpreters &amp; Sensitivity Analysis. Explore how these techniques can open the lid on the black box &amp; build trust in your machine learning models to future proof AI &amp; your business.</span>",
+      "city": " Online",
+      "date": "17 February 2021",
+      "start_date": "2021-02-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(21).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Reinforcement Learning Stage",
+      "link": "https://www.re-work.co/events/reinforcement-learning-summit",
+      "title": " Part of the Deep Learning 2.0 Virtual Summit",
+      "description": "<span>The Reinforcement Learning Stage explores the training of ML models for decision making, using the notion of rewards to enable an agent to learn in an interactive environment by trial-and-error &amp; feedback to take a step closer to human-level performance.</span>",
+      "city": " Online",
+      "date": "28 - 29 January 2021",
+      "start_date": "2021-01-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(24).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI Ethics & Social Responsibility Stage",
+      "link": "https://www.re-work.co/events/ethics-social-responsibility-summit",
+      "title": " Part of the Deep Learning 2.0 Virtual Summit",
+      "description": "<span>The Ethics &amp; Social Responsibility Stage will explore the ethical considerations and responsibility of stakeholders deploying AIs, including recommendations on positive next steps to put reflections into practice for the common good.</span>",
+      "city": " Online",
+      "date": "28 - 29 January 2021",
+      "start_date": "2021-01-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(26).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Landscape Stage",
+      "link": "https://www.re-work.co/events/deep-learning-virtual-summit-2021",
+      "title": " Part of the Deep Learning 2.0 Virtual Summit",
+      "description": "<span>The Deep Learning Landscape Stage explores the latest breakthroughs from researchers in the field of Deep Learning. Discover ways to overcome obstacles in developing and deploying deep neural networks as well as novel algorithmic advancements from leading academics and industry professionals.</span>",
+      "city": " Online",
+      "date": "28 - 29 January 2021",
+      "start_date": "2021-01-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(25).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Generative Models Stage",
+      "link": "https://www.re-work.co/events/generative-models-summit",
+      "title": " Part of the Deep Learning 2.0 Virtual Summit",
+      "description": "<span>The Generative Models Stage will discover advances in generative models from the world's leading innovators. Learn from pioneering researchers in areas such as GANs and Bayesian Networks, and explore the applications and opportunities that these methods present across industries.</span>",
+      "city": " Online",
+      "date": "28 - 29 January 2021",
+      "start_date": "2021-01-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(23).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Enterprise AI Stage",
+      "link": "https://www.re-work.co/events/enterprise-ai-summit",
+      "title": " Part of the Deep Learning 2.0 Virtual Summit",
+      "description": "<span>Deep Learning is now driving forward rapid innovation in AI and across business. The Enterprise AI Stage will feature the latest AI applications enabled via deep learning to help businesses realize the untapped potential for AI to transform the enterprise.</span>",
+      "city": " Online",
+      "date": "28 - 29 January 2021",
+      "start_date": "2021-01-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(22).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Virtual",
+      "link": "https://www.re-work.co/events/women-in-ai-virtual",
+      "title": "",
+      "description": "<span>Leading minds in artificial intelligence will come together (7pm GMT/2pm ET/11am PT) for networking, presentations and meaningful discussions on diversity, inclusion, the importance of allies &amp; mentors and much more.</span>",
+      "city": " Online",
+      "date": "19 January 2021",
+      "start_date": "2021-01-18T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(27).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Conversational AI Mini-Summit",
+      "link": "https://www.re-work.co/events/conversational-ai-nlp-summit-2020",
+      "title": " Part of the Mini-Summit Series",
+      "description": "<span>The Conversational AI Mini-Summit will showcase technical advancements in Natural Language Generation and Natural Language Understanding and assess the opportunities of deploying Conversational AI agents for varying enterprises. How can advancements in machine learning in the domains of voice and...</span>",
+      "city": " Online",
+      "date": "2 December 2020",
+      "start_date": "2020-12-01T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(28).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Conversational AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Virtual Evening",
+      "link": "https://www.re-work.co/events/women-in-ai-virtual-evening-2020",
+      "title": "",
+      "description": "<span>Leading minds in artificial intelligence will come together for an evening (7-9pm EST/ 4-6pm PST) of networking, presentations, and meaningful discussions on diversity, inclusion, the importance of allies &amp; mentors, and much more.</span>",
+      "city": " Online",
+      "date": "18 November 2020",
+      "start_date": "2020-11-17T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(29).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: Challenges & Solutions for 3D LiDAR Annotation & 3D Data Sets",
+      "link": "https://www.re-work.co/events/webinar-challenges-annotation-data-sets",
+      "title": "",
+      "description": "<span>Discover the most common issues faced when given the task of solving autonomous driving, including getting the right data, and ensuring it is labeled correctly. Learn more about finding, collecting or creating the right data set to jump-start your ML development. </span>",
+      "city": " Online",
+      "date": "11 November 2020",
+      "start_date": "2020-11-10T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(2).png",
+      "location": [
+          "Online"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Insurance Virtual Summit",
+      "link": "https://www.re-work.co/events/ai-in-insurance-virtual-summit-2020",
+      "title": " Part of the AI Applications Virtual Summit",
+      "description": "<span>The AI in Insurance Summit is a one day brings together data scientists, engineers, CTOs, CEOs &amp; leading insurance corporations to explore the impact of AI in the insurance sector. Applications include identifying and preventing risks, revolutionising claims processing &amp; customer personalisation. </span>",
+      "city": " Online",
+      "date": "18 September 2020",
+      "start_date": "2020-09-17T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(35).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in RegTech Virtual Summit",
+      "link": "https://www.re-work.co/events/ai-in-regtech-virtual-summit-2020",
+      "title": " Part of the AI Applications Virtual Summit",
+      "description": "<span>The AI in RegTech Summit brings together data scientists, data governance experts, heads of compliance, risk managers &amp; regulators to explore the opportunities and challenges of adopting AI &amp; machine learning throughout RegTech. </span>",
+      "city": " Online",
+      "date": "17 September 2020",
+      "start_date": "2020-09-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(37).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Finance Virtual Summit",
+      "link": "https://www.re-work.co/events/ai-in-finance-virtual-summit-2020",
+      "title": " Part of the AI Applications Virtual Summit",
+      "description": "<span>The AI in Finance Summit is a multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp; leading financial corporations to explore the impact of AI in the financial sector. Applications include risk management, fraud detection, customer support &amp; algorithmic trading.</span>",
+      "city": " Online",
+      "date": "17 - 18 September 2020",
+      "start_date": "2020-09-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(36).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Retail Virtual Summit",
+      "link": "https://www.re-work.co/events/ai-in-retail-virtual-summit-2020",
+      "title": " Part of the AI Applications Virtual Summit",
+      "description": "<span>A multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp; leading retailers to explore the impact of deep learning and AI in the retail sector. Applications include computer vision for sizing; image analysis for shopping efficiency; and natural language processing for p...</span>",
+      "city": " Online",
+      "date": "17 - 18 September 2020",
+      "start_date": "2020-09-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(34).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Marketing Virtual Summit",
+      "link": "https://www.re-work.co/events/ai-in-marketing-virtual-summit-2020",
+      "title": " Part of the AI Applications Virtual Summit",
+      "description": "The AI in Marketing Summit is a multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp;amp; leading marketers to explore the impact of deep learning and AI in the media and advertising sector. Applications include computer vision for search engine optimisation; AI for targe...",
+      "city": " Online",
+      "date": "17 - 18 September 2020",
+      "start_date": "2020-09-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(33).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: Fighting AI Bias",
+      "link": "https://www.re-work.co/events/webinar-fighting-ai-bias-2020",
+      "title": " Part of the AI for Good Webinar Series",
+      "description": "<span>How are leading organizations obtaining superior quality training data without compromising privacy or security? Is it possible to make positive social impact along the way? This webinar will explore how we can fight AI bias by securing high-quality training data.</span>",
+      "city": " Online",
+      "date": "26 August 2020",
+      "start_date": "2020-08-25T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(38).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "AI for Good"
+      ],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: ML Accelerated Data Annotation",
+      "link": "https://www.re-work.co/events/webinar:-ml-accelerated-data-annotation-2020",
+      "title": "",
+      "description": "<span>Discover factors influencing the length &amp; effort required to produce annotated data &amp; how a team can structure the annotation work to allow for incremental development &amp; continuous progress. Learn about the combination of human input &amp; the use of the DEXTR approach.</span>",
+      "city": " Online",
+      "date": "29 July 2020",
+      "start_date": "2020-07-28T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(3).png",
+      "location": [
+          "Online"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: Building an Enterprise Data Platform",
+      "link": "https://www.re-work.co/events/webinar:-building-enterprise-data-platform",
+      "title": "",
+      "description": "<span>Discover factors influencing the length &amp; effort required to produce annotated data &amp; how a team can structure the annotation work to allow for incremental development &amp; continuous progress. Learn about the combination of human input &amp; the use of the DEXTR approach.</span>",
+      "city": " Online",
+      "date": "2 July 2020",
+      "start_date": "2020-07-01T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(39)-1.jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: AI for Crisis Prediction & Management",
+      "link": "https://www.re-work.co/events/ai-in-regtech-virtual-summit-2020",
+      "title": "",
+      "description": "<span>What impact could artificial intelligence have on predicting, monitoring, and managing the impact of disasters? This webinar will explore recent AI research and applications of methods to monitor, predict, and manage catastrophic events.</span>",
+      "city": " Online",
+      "date": "17 June 2020",
+      "start_date": "2020-06-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(40).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "AI for Good"
+      ],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: How Can AI Tackle Climate Change?",
+      "link": "https://www.re-work.co/events/webinar-ai-tackle-climate-change",
+      "title": "",
+      "description": "<span>Join our expert industry speakers to discuss all things AI in Climate Change. The hour of discussion will comprise of three presentations &amp; speaker Q&amp;A sessions. </span>",
+      "city": " Online",
+      "date": "3 June 2020",
+      "start_date": "2020-06-02T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(41).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Applied AI Virtual Summit",
+      "link": "https://www.re-work.co/events/applied-ai-virtual-summit",
+      "title": "",
+      "description": "<span>The Applied AI Virtual Summit brings together real-life AI applications, case studies, business insights &amp; results from leading companies applying AI to solve business problems using techniques including machine learning, deep learning, reinforcement learning, computer vision &amp; NLP.</span>",
+      "city": " Online",
+      "date": "21 May 2020",
+      "start_date": "2020-05-20T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(42).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: AI for Accessible Education",
+      "link": "https://www.re-work.co/events/webinar-ai-for-education-2020",
+      "title": " Part of the AI for Good Webinar Series",
+      "description": "<span>What impact could artificial intelligence have on improving the accessibility of education worldwide? The webinar will explore the potential for AI to increase access to education and the opportunity for scaling up learning tools to allow for personalized and interactive learning experiences.</span>",
+      "city": " Online",
+      "date": "13 May 2020",
+      "start_date": "2020-05-12T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(4).png",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "AI for Good"
+      ],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: The Potential of AI for Pandemics",
+      "link": "https://www.re-work.co/events/webinar-the-potential-of-ai-for-pandemics",
+      "title": "",
+      "description": "<span>What impact could artificial intelligence have on public health crises, both present and future? The webinar will explore how artificial intelligence can be used in the fight against pandemics. Learn how AI is applied to the prediction and mitigation of infectious diseases.</span>",
+      "city": " Online",
+      "date": "7 April 2020",
+      "start_date": "2020-04-06T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(43).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-january-london-2020",
+      "title": " Part of the San Francisco Summit",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. The increasingly popular branch of machine learning explores advances in methods such as reinforcement learning, computer vision, natural language processing, and neural network research. This summit will explore how deep...</span>",
+      "city": " San Francisco",
+      "date": "30 - 31 January 2020",
+      "start_date": "2020-01-29T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(46).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI Assistant Summit",
+      "link": "https://www.re-work.co/events/ai-assistant-summit-san-francisco-2020",
+      "title": " Part of the San Francisco Summit",
+      "description": "<span>The next generation in predictive intelligence. Anticipating user &amp; business needs to alert &amp; advise logical steps to increase efficiency. The summit will showcase the opportunities of advancing trends in AI Assistants &amp; their impact on business &amp; society. What impact will predictive intelligence...</span>",
+      "city": " San Francisco",
+      "date": "30 - 31 January 2020",
+      "start_date": "2020-01-29T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(45).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Applied AI Summit",
+      "link": "https://www.re-work.co/events/applied-ai-summit-san-francisco-2020",
+      "title": " Part of the San Francisco Summit",
+      "description": "<span>The RE•WORK Applied AI Summit brings together real-life AI applications, case studies, business insights and results from leading companies applying artificial intelligence to solve business problems using techniques including machine learning, deep learning, computer vision and NLP. Learn how yo...</span>",
+      "city": " San Francisco",
+      "date": "30 - 31 January 2020",
+      "start_date": "2020-01-29T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(44).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-january-sanfrancisco-2020",
+      "title": "",
+      "description": "<span>Join us for a night of thought provoking discussions, networking and great food &amp; wine. The dinner will bring together industry thought leaders and support the growth of women in AI. The dinner is open to all genders.</span>",
+      "city": " San Francisco",
+      "date": "28 January 2020",
+      "start_date": "2020-01-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(47).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-january-london-2020",
+      "title": "",
+      "description": "<span>Inspiring and influential women in AI will come together for an evening of networking and presentations. Join us for a night of great food &amp; wine, and contribute to supporting women in the field. The dinner is open to all genders.</span>",
+      "city": " London",
+      "date": "22 January 2020",
+      "start_date": "2020-01-21T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(5).png",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Responsible AI Summit",
+      "link": "https://www.re-work.co/events/responsible-ai-summit-montreal-2019",
+      "title": "",
+      "description": "<span>The RE•WORK Responsible AI Summit will explore how enterprises must ensure AI solutions are implemented to alleviate any risk of bias, ethical concerns and can produce trustworthy outputs to increase business performance responsibly. What is your strategy to build a responsible AI framework?</span>",
+      "city": " Montreal",
+      "date": "24 - 25 October 2019",
+      "start_date": "2019-10-23T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(50).jpg",
+      "location": [
+          "Montreal"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-montreal-2019",
+      "title": "",
+      "description": "<span>What are the latest advancements in deep learning research? Where are the most recent scientific breakthroughs? Hear the latest research news from global pioneers in Natural Language Processing, GANs, Reinforcement Learning, CNNs and Unsupervised Learning at the summit.</span>",
+      "city": " Montreal",
+      "date": "24 - 25 October 2019",
+      "start_date": "2019-10-23T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(49).jpg",
+      "location": [
+          "Montreal"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women & Diversity in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-london-november-2019",
+      "title": "",
+      "description": "<span>Inspiring and influential women in AI will come together to discuss diversity &amp; inclusion within the industry, sharing their latest work and encouraging women around the world to explore STEM. Join us for an evening of networking with like-minded peers, three courses of fine-dining, and contrib...</span>",
+      "city": " London",
+      "date": "12 November 2019",
+      "start_date": "2019-10-11T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(48).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI Assistant Summit",
+      "link": "https://www.re-work.co/events/ai-assistant-summit-london-2019",
+      "title": "",
+      "description": "<span>The next generation in predictive intelligence. Anticipating user &amp; business needs to alert &amp; advise logical steps to increase efficiency. The summit will explore the latest research advancements in NLP and showcase the opportunities of advancing trends in AI assistants &amp; their impact on business...</span>",
+      "city": "  London",
+      "date": "19 - 20 September 2019",
+      "start_date": "2019-09-18T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(55).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Retail & Advertising Summit",
+      "link": "https://www.re-work.co/events/ai-in-retail-advertising-summit-london-2019",
+      "title": "",
+      "description": "<span>The AI in Retail &amp; Advertising Summit is a multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp; leading retailers to explore the impact of deep learning and AI in the retail and advertising sector. Applications include computer vision for sizing; image analysis for ...</span>",
+      "city": "  London",
+      "date": "19 - 20 September 2019",
+      "start_date": "2019-09-18T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(51).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Retail"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Finance Summit",
+      "link": "https://www.re-work.co/events/ai-in-finance-summit-new-york-2019",
+      "title": "",
+      "description": "<span>The AI in Finance Summit brings together principal data scientists, professors, CEOs, CTOs, machine learning scientists, senior solution architects, and risk managers to explore the impact of AI &amp; deep learning across the financial sector. Applications include investment and portfolio optimizatio...</span>",
+      "city": " New York",
+      "date": "05 - 06 September 2019",
+      "start_date": "2019-09-04T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(53).jpg",
+      "location": [
+          "New York"
+      ],
+      "topic": [
+          "Finance"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Insurance Summit",
+      "link": "https://www.re-work.co/events/ai-in-insurance-summit-new-york-2019",
+      "title": "",
+      "description": "<span>The AI in Insurance Summit brings together data scientists, research professors, devops managers, actuarial leads and directors of machine learning to discuss the impact of the 4th industrial revolution in the insurance industry. Gain insight into AI architectures, data engineering practices, and...</span>",
+      "city": " New York",
+      "date": "05 - 06 September 2019",
+      "start_date": "2019-09-04T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(52).jpg",
+      "location": [
+          "New York"
+      ],
+      "topic": [
+          "Insurance"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Applied AI Summit",
+      "link": "https://www.re-work.co/events/applied-ai-summit-san-francisco-2019",
+      "title": "",
+      "description": "<span>The RE•WORK Applied AI Summit brings together real-life AI applications, case studies, business insights &amp; results from leading companies applying AI to solve business problems using techniques including machine learning, deep learning, computer vision &amp; NLP. Learn how your business can leverage ...</span>",
+      "city": " San Francisco",
+      "date": "20 - 21 June 2019",
+      "start_date": "2019-06-19T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(56).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Reinforcement Learning Summit",
+      "link": "https://www.re-work.co/events/deep-reinforcement-learning-summit-san-francisco-2019",
+      "title": "",
+      "description": "<span>The RE•WORK Deep Reinforcement Learning Summit explores the latest advancements in deep learning, combined with reinforcement learning - the training of algorithms using the notion of rewards, and trial-and-error. The Deep Reinforcement Learning Summit brings together these two methods to take on...</span>",
+      "city": " San Francisco",
+      "date": "20 - 21 June 2019",
+      "start_date": "2019-06-19T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(24).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI for Good Summit",
+      "link": "https://www.re-work.co/events/ai-for-good-summit-san-francisco-2019",
+      "title": "",
+      "description": "<span>The RE•WORK AI for Good Summit brings together founders, business leaders, investors and academics working towards AI having a positive impact on the world through new research and practical applications in sectors including environmental sustainability, accessible healthcare and education and tr...</span>",
+      "city": " San Francisco",
+      "date": "20 - 21 June 2019",
+      "start_date": "2019-06-19T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(54).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "AI for Good"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-london-tech-week-2019",
+      "title": "",
+      "description": "<span>Inspiring and influential women in AI will come together for an evening of networking and presentations. Join us for a night of great food &amp; wine, and contribute to supporting women in the field. The dinner is open to all genders.</span>",
+      "city": " London",
+      "date": "12 June 2019",
+      "start_date": "2019-06-11T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(57).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Healthcare Summit",
+      "link": "https://www.re-work.co/events/deep-learning-in-healthcare-summit-boston-2019",
+      "title": "",
+      "description": "<span>The Deep Learning in Healthcare Summit will explore breakthroughs in technical advancements and healthcare applications with industry experts, academics, and healthcare professionals. From algorithms that learn to recognize complex patterns within rich medical data to analyzing real-world eviden...</span>",
+      "city": "  Boston",
+      "date": "23 - 24 May 2019",
+      "start_date": "2019-05-22T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(74).jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-boston-2019",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. Explore the impact of image &amp; speech recognition as a disruptive trend in business and industry. How can multiple levels of representation and abstraction help to make sense of data such as images, sound, and text. Hear t...</span>",
+      "city": "  Boston",
+      "date": "23 - 24 May 2019",
+      "start_date": "2019-05-22T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(73).jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-boston-2019",
+      "title": "",
+      "description": "<span>Inspiring and influential women in AI will come together for an evening of networking and presentations. Join us for a night of great food &amp; wine, and contribute to supporting women in the field. The dinner is open to all genders.</span>",
+      "city": "  Boston",
+      "date": "21 May 2019",
+      "start_date": "2019-05-20T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(57).jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-london-2019",
+      "title": "",
+      "description": "<span>Inspiring and influential women in AI will come together for an evening of networking and presentations. Join us for a night of great food &amp; wine, and contribute to supporting women in the field. The dinner is open to all genders.</span>",
+      "city": " London",
+      "date": "19 March 2019",
+      "start_date": "2019-03-18T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(6).png",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Finance Summit",
+      "link": "https://www.re-work.co/events/deep-learning-in-finance-summit-london-2019",
+      "title": "",
+      "description": "<span>The Deep Learning in Finance Summit is a multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp; leading financial corporations to explore the impact of deep learning in the financial sector. Applications include identifying and preventing risks, revolutionising financi...</span>",
+      "city": " London",
+      "date": "19 - 20 March 2019",
+      "start_date": "2019-03-18T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(58).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: AI for Good",
+      "link": "https://www.re-work.co/events/webinar-ai-for-good",
+      "title": "",
+      "description": "<span>Applying artificial intelligence to benefit society and tackle global challenges such as the environment, education, healthcare and sustainability. The webinar will explore responsible and practical applications of machine learning and deep learning to improve individual lives and society, in...</span>",
+      "city": "  Online",
+      "date": "19 February 2019",
+      "start_date": "2019-02-18T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(8).png",
+      "location": [
+          "Online"
+      ],
+      "topic": [
+          "AI for Good"
+      ],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI Impact Stages at the Deep Learning Summit",
+      "link": "https://www.re-work.co/events/dl-sanfran-2019",
+      "title": "",
+      "description": "<span>The 9 AI Impact Stages include: •&nbsp;AI Assistant Stage • Ethics &amp; Social Responsibility Stage • Technical Lab Sessions • Industry Applications Stage • Education &amp; AI Stage •&nbsp;Environment &amp; Sustainability Stage • Investors &amp; Startups Stage • Connect Stage • Futurescaping S...</span>",
+      "city": " San Francisco",
+      "date": "24 - 25 January 2019",
+      "start_date": "2019-01-23T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(76).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-san-francisco-2019",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. The increasingly popular branch of machine learning explores advances in methods such as image analysis, speech and pattern recognition, natural language processing, and neural network research. This summit will explore h...</span>",
+      "city": " San Francisco",
+      "date": " 24 - 25 January 2019",
+      "start_date": "2019-01-23T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(75).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-san-francisco-2019",
+      "title": "",
+      "description": "<span>Meet inspiring women working in AI over an evening of discussions, presentations and great food and wine to match. Join us to support and contribute to leading women committed to advancing AI. The dinner is open to all genders.</span>",
+      "city": " San Francisco",
+      "date": "22 January 2019",
+      "start_date": "2019-01-21T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(9).png",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Machine Learning for DevOps Summit",
+      "link": "https://www.re-work.co/events/machine-learning-for-devops-summit-2018",
+      "title": "",
+      "description": "<span>The Machine Learning for DevOps Summit will explore how ML can be implemented into and benefit DevOps methodology. How can machine learning tools be utilized to analyze large amounts of data and extract actionable insights from the data sets.</span>",
+      "city": " Houston",
+      "date": "29 - 30 November 2018",
+      "start_date": "2018-11-28T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(78).jpg",
+      "location": [
+          "Houston"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Applied AI Summit",
+      "link": "https://www.re-work.co/events/applied-ai-summit-houston-2018",
+      "title": "",
+      "description": "<span>The RE•WORK Applied AI Summit brings together real-life AI applications, case studies, business insights and results from leading companies applying artificial intelligence to solve business problems. Learn how your business can leverage AI for success.</span>",
+      "city": " Houston",
+      "date": "29 - 30 November 2018",
+      "start_date": "2018-11-28T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(77).jpg",
+      "location": [
+          "Houston"
+      ],
+      "topic": [
+          "Applied AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-houston",
+      "title": "",
+      "description": "<span>Inspiring and influential women in AI will come together for an evening of networking and presentations. Join us for an night of great food &amp; wine, and contribute to supporting women in the field.</span>",
+      "city": " Houston",
+      "date": "27 November 2018",
+      "start_date": "2018-11-26T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(59).jpg",
+      "location": [
+          "Houston"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI for Government Summit",
+      "link": "https://www.re-work.co/events/ai-for-government-summit-canada-2018",
+      "title": "",
+      "description": "<span>How can artificial intelligence revolutionize government to increase efficiency, reduce costs, and help meet ever increasing demands of the public sector? What are the key implementation challenges faced by government bodies? What best practice insights can government agencies share? </span>",
+      "city": " Toronto",
+      "date": "25 - 26 October 2018",
+      "start_date": "2018-10-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(60).jpg",
+      "location": [
+          "Toronto"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-toronto-canada-2018",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. The increasingly popular branch of machine learning explores advances in methods such as image analysis, speech and pattern recognition, natural language processing, and neural network research. This summit will explore t...</span>",
+      "city": "  Toronto",
+      "date": "25 - 26 October 2018",
+      "start_date": "2018-10-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(79).jpg",
+      "location": [
+          "Toronto"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI for Government Summit",
+      "link": "https://www.re-work.co/events/ai-for-government-summit-canada-2018",
+      "title": "",
+      "description": "<span>How can artificial intelligence revolutionize government to increase efficiency, reduce costs, and help meet ever increasing demands of the public sector? What are the key implementation challenges faced by government bodies? What best practice insights can government agencies share? </span>",
+      "city": "  Toronto",
+      "date": "25 - 26 October 2018",
+      "start_date": "2018-10-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(60).jpg",
+      "location": [
+          "Toronto"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-toronto-2018",
+      "title": "",
+      "description": "<span>Leading minds in artificial intelligence will come together for an evening of networking and keynote presentations. Join us for a three course meal to support women in AI and Machine Intelligence.</span>",
+      "city": "Toronto",
+      "date": "23 October 2018",
+      "start_date": "2018-10-22T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(61).jpg",
+      "location": [
+          "Toronto"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-toronto-2018",
+      "title": "",
+      "description": "<span>Leading minds in artificial intelligence will come together for an evening of networking and keynote presentations. Join us for a three course meal to support women in AI and Machine Intelligence.</span>",
+      "city": "  Toronto",
+      "date": "23 October 2018",
+      "start_date": "2018-10-22T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(61).jpg",
+      "location": [
+          "Toronto"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-london-2018",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. Explore the impact of image &amp; speech recognition as a disruptive trend in business and industry. How can multiple levels of representation and abstraction help to make sense of data such as images, sound, and text. Hear t...</span>",
+      "city": " London",
+      "date": "20 - 21 September 2018",
+      "start_date": "2018-09-20T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/large%20(80).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Healthcare Summit",
+      "link": "https://www.re-work.co/events/deep-learning-in-healthcare-summit-london-2018",
+      "title": "",
+      "description": "<span>The Deep Learning in Healthcare Summit will explore recent breakthroughs in technical advancements and healthcare applications, from algorithms that learn to recognise complex patterns within rich medical data, to analysing real world evidence for personalised medicine, to discovering the sequenc...</span>",
+      "city": " London",
+      "date": "20 - 21 September 2018",
+      "start_date": "2018-09-19T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(81).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-london-2018",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. Explore the impact of image &amp; speech recognition as a disruptive trend in business and industry. How can multiple levels of representation and abstraction help to make sense of data such as images, sound, and text. Hear t...</span>",
+      "city": "   London",
+      "date": "20 - 21 September 2018",
+      "start_date": "2018-09-19T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(62).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Finance Summit",
+      "link": "https://www.re-work.co/events/ai-in-finance-summit-new-york-2018",
+      "title": "",
+      "description": "<span>The AI in Finance Summit brings together data scientists, engineers, CTOs, CEOs &amp; leading financial corporations to explore the impact of machine learning &amp; deep learning in the financial sector. Applications include identifying and preventing risks, revolutionising financial forecasting &amp; compli...</span>",
+      "city": "  New York",
+      "date": "06 - 07 September 2018",
+      "start_date": "2018-09-05T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(82).jpg",
+      "location": [
+          "New York"
+      ],
+      "topic": [
+          "Finance"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Reception",
+      "link": "https://www.re-work.co/events/women-in-ai-reception-new-york",
+      "title": "",
+      "description": "<span>Leading minds in artificial intelligence will come together for an evening of networking and keynote presentations. Join us for a Canapé and wine reception to support women in AI and Machine Intelligence.</span>",
+      "city": " New York",
+      "date": "4 September 2018",
+      "start_date": "2018-09-03T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(83).jpg",
+      "location": [
+          "New York"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: Privacy & Security in AI",
+      "link": "https://www.re-work.co/events/webinar-privacy-and-security-in-ai",
+      "title": "",
+      "description": "<span>Large amounts of data are required for machine learning, which of course means there's an increased potential for breaches. The terms 'Privacy' and 'Security' are constantly in the media, but what's the difference between the two, and why should we be concerned? Join this Webinar to learn more ab...</span>",
+      "city": " Online",
+      "date": "29 August 2018",
+      "start_date": "2018-08-28T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(7).png",
+      "location": [
+          "Online"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: Privacy & Security in AI",
+      "link": "https://www.re-work.co/events/webinar-privacy-and-security-in-ai",
+      "title": "",
+      "description": "<span>Large amounts of data are required for machine learning, which of course means there's an increased potential for breaches. The terms 'Privacy' and 'Security' are constantly in the media, but what's the difference between the two, and why should we be concerned? Join this Webinar to learn more ab...</span>",
+      "city": " Online",
+      "date": "29 August 2018",
+      "start_date": "2018-08-28T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(7).png",
+      "location": [
+          "Online"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-san-francisco-june-2018",
+      "title": "",
+      "description": "<span>Leading minds in artificial intelligence will come together for an evening of networking and discussions as we hear keynote presentations from leading female pioneers exploring their latest work in the AI space. Join us for a three course meal as we support women in tech, AI and machine intellige...</span>",
+      "city": "  San Francisco",
+      "date": "26 June 2018",
+      "start_date": "2018-07-25T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(65).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-london-july-2018",
+      "title": "",
+      "description": "<span>Leading minds in artificial intelligence will come together for an evening of networking and keynote presentations. After each course, we'll hear short talks from experts, followed by Q&amp;A and discussions throughout the meal. Join us for a three course meal to support women in AI and Machine Intel...</span>",
+      "city": "  London",
+      "date": "11 July 2018",
+      "start_date": "2018-07-10T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(87).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Industrial Automation Summit",
+      "link": "https://www.re-work.co/events/ai-industrial-automation-summit-san-francisco-2018",
+      "title": "",
+      "description": "<span>The AI in Industrial Automation Summit brings together influential industry leaders, startups to watch, and pioneering researchers to explore accelerating trends in artificial intelligence. Advancements in subfields of AI; Machine Learning &amp; Deep Learning, are leading to a fourth industrial revol...</span>",
+      "city": " San Francisco",
+      "date": "28 - 29 June 2018",
+      "start_date": "2018-06-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(88).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning for Robotics Summit",
+      "link": "https://www.re-work.co/events/deep-learning-for-robotics-summit-san-francisco-2018",
+      "title": "",
+      "description": "<span>The Deep Learning for Robotics Summit brings together influential researchers, disruptive startups, and leading robotic companies to explore how we can improve robotic skills via applied deep learning. Advancements in reinforcement learning, unsupervised learning, computer vision and progressive ...</span>",
+      "city": " San Francisco",
+      "date": "28 - 29 June 2018",
+      "start_date": "2018-06-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(63).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Industrial Automation Summit",
+      "link": "https://www.re-work.co/events/ai-industrial-automation-summit-san-francisco-2018",
+      "title": "",
+      "description": "<span>The AI in Industrial Automation Summit brings together influential industry leaders, startups to watch, and pioneering researchers to explore accelerating trends in artificial intelligence. Advancements in subfields of AI; Machine Learning &amp; Deep Learning, are leading to a fourth industrial revol...</span>",
+      "city": "  San Francisco",
+      "date": "28 - 29 June 2018",
+      "start_date": "2018-06-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(64).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning for Robotics Summit",
+      "link": "https://www.re-work.co/events/deep-learning-for-robotics-summit-san-francisco-2018",
+      "title": "",
+      "description": "<span>The Deep Learning for Robotics Summit brings together influential researchers, disruptive startups, and leading robotic companies to explore how we can improve robotic skills via applied deep learning. Advancements in reinforcement learning, unsupervised learning, computer vision and progressive ...</span>",
+      "city": "  San Francisco",
+      "date": "28 - 29 June 2018",
+      "start_date": "2018-06-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(63).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-ai-dinner-san-francisco-june-2018",
+      "title": "",
+      "description": "<span>Leading minds in artificial intelligence will come together for an evening of networking and discussions as we hear keynote presentations from leading female pioneers exploring their latest work in the AI space. Join us for a three course meal as we support women in tech, AI and machine intellige...</span>",
+      "city": " San Francisco",
+      "date": "26 June 2018",
+      "start_date": "2018-06-25T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(65).jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Machine Intelligence Summit",
+      "link": "https://www.re-work.co/events/machine-intelligence-summit-hong-kong-2018",
+      "title": "",
+      "description": "<span>The Machine Intelligence Summit: where machine learning meets artificial intelligence. The rise of intelligent machines to make sense of data in the real world. Learn from the industry experts in speech &amp; image recognition, natural language processing and computer vision. Explore how AI will impa...</span>",
+      "city": " Hong Kong",
+      "date": "06 - 07 June 2018",
+      "start_date": "2018-06-05T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(67).jpg",
+      "location": [
+          "Hong Kong"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Healthcare Summit",
+      "link": "https://www.re-work.co/events/ai-in-healthcare-summit-hong-kong-2018",
+      "title": "",
+      "description": "<span>The AI in Healthcare Summit will explore recent breakthroughs in technical advancements &amp; healthcare applications, from algorithms that learn to recognise complex patterns within rich medical data, to analysing real world evidence for personalised medicine, to discovering the sequence specificiti...</span>",
+      "city": " Hong Kong",
+      "date": "06 - 07 June 2018",
+      "start_date": "2018-06-05T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(66).jpg",
+      "location": [
+          "Hong Kong"
+      ],
+      "topic": [
+          "Healthcare"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Machine Intelligence Summit",
+      "link": "https://www.re-work.co/events/machine-intelligence-summit-hong-kong-2018",
+      "title": "",
+      "description": "<span>The Machine Intelligence Summit: where machine learning meets artificial intelligence. The rise of intelligent machines to make sense of data in the real world. Learn from the industry experts in speech &amp; image recognition, natural language processing and computer vision. Explore how AI will impa...</span>",
+      "city": " Hong Kong",
+      "date": "06 - 07 June 2018",
+      "start_date": "2018-06-05T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(67).jpg",
+      "location": [
+          "Hong Kong"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI in Healthcare Summit",
+      "link": "https://www.re-work.co/events/ai-in-healthcare-summit-hong-kong-2018",
+      "title": "",
+      "description": "<span>The AI in Healthcare Summit will explore recent breakthroughs in technical advancements &amp; healthcare applications, from algorithms that learn to recognise complex patterns within rich medical data, to analysing real world evidence for personalised medicine, to discovering the sequence specificiti...</span>",
+      "city": " Hong Kong",
+      "date": "06 - 07 June 2018",
+      "start_date": "2018-06-05T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(66).jpg",
+      "location": [
+          "Hong Kong"
+      ],
+      "topic": [
+          "Healthcare"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Healthcare Summit",
+      "link": "https://www.re-work.co/events/deep-learning-health-boston-2018",
+      "title": "",
+      "description": "<span>The Deep Learning in Healthcare Summit will explore recent breakthroughs in technical advancements and healthcare applications, from algorithms that learn to recognize complex patterns within rich medical data, to analysing real world evidence for personalized medicine, to discovering the sequenc...</span>",
+      "city": " Boston",
+      "date": "24 - 25 May 2018",
+      "start_date": "2018-05-23T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(69).jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-boston-2018",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. Explore the impact of image &amp; speech recognition as a disruptive trend in business and industry. How can multiple levels of representation and abstraction help to make sense of data such as images, sound, and text. Hear t...</span>",
+      "city": " Boston",
+      "date": "24 - 25 May 2018",
+      "start_date": "2018-05-23T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(68).jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Healthcare Summit",
+      "link": "https://www.re-work.co/events/deep-learning-health-boston-2018",
+      "title": "",
+      "description": "<span>The Deep Learning in Healthcare Summit will explore recent breakthroughs in technical advancements and healthcare applications, from algorithms that learn to recognize complex patterns within rich medical data, to analysing real world evidence for personalized medicine, to discovering the sequenc...</span>",
+      "city": " Boston",
+      "date": "24 - 25 May 2018",
+      "start_date": "2018-05-23T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(69).jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-boston-2018",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. Explore the impact of image &amp; speech recognition as a disruptive trend in business and industry. How can multiple levels of representation and abstraction help to make sense of data such as images, sound, and text. Hear t...</span>",
+      "city": " Boston",
+      "date": "24 - 25 May 2018",
+      "start_date": "2018-05-23T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(68).jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: What Are the Ethical Implications of AI?",
+      "link": "https://www.re-work.co/events/webinar-the-ethics-of-ai",
+      "title": "",
+      "description": "<span>How can a machine make the right moral decision, and what is the ‘right’ decision? Should AI have rights like humans? What is the societal impact of AI? These are just some of the ethical concerns and questions posed by AI methods, tools and software today. What are the measures being taken to ta...</span>",
+      "city": "  Online",
+      "date": "19 April 2018",
+      "start_date": "2018-04-18T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(70).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: What Are the Ethical Implications of AI?",
+      "link": "https://www.re-work.co/events/webinar-the-ethics-of-ai",
+      "title": "",
+      "description": "<span>How can a machine make the right moral decision, and what is the ‘right’ decision? Should AI have rights like humans? What is the societal impact of AI? These are just some of the ethical concerns and questions posed by AI methods, tools and software today. What are the measures being taken to ta...</span>",
+      "city": "  Online",
+      "date": "19 April 2018",
+      "start_date": "2018-04-18T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(70).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE•WORK STARTUPS: LONDON EDITION",
+      "link": "https://www.re-work.co/events/startup-session-london-march-2018",
+      "title": "",
+      "description": "<span>An afternoon of discussions &amp; networking around the challenges and opportunities of growing a business in the AI world. This is an opportunity for startups to gain advice on their business models, ideas and strategies from leading experts in AI as well as the investment community. When is the bes...</span>",
+      "city": " London",
+      "date": "16 March 2018",
+      "start_date": "2018-03-15T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(72).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE•WORK STARTUPS: LONDON EDITION",
+      "link": "https://www.re-work.co/events/startup-session-london-march-2018",
+      "title": "",
+      "description": "<span>An afternoon of discussions &amp; networking around the challenges and opportunities of growing a business in the AI world. This is an opportunity for startups to gain advice on their business models, ideas and strategies from leading experts in AI as well as the investment community. When is the bes...</span>",
+      "city": " London",
+      "date": "16 March 2018",
+      "start_date": "2018-03-15T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(72).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE•WORK STARTUPS: LONDON EDITION",
+      "link": "https://www.re-work.co/events/startup-session-london-march-2018",
+      "title": "",
+      "description": "<span>An afternoon of discussions &amp; networking around the challenges and opportunities of growing a business in the AI world. This is an opportunity for startups to gain advice on their business models, ideas and strategies from leading experts in AI as well as the investment community. When is the bes...</span>",
+      "city": " London",
+      "date": "16 March 2018",
+      "start_date": "2018-03-15T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(72).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Retail & Advertising Summit",
+      "link": "https://www.re-work.co/events/deep-learning-in-retail-summit-london-2018",
+      "title": "",
+      "description": "<span>The Deep Learning in Retail &amp; Advertising Summit is a multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp; leading retailers to explore the impact of deep learning and AI in the retail and advertising sector. Applications include computer vision for sizing; image ana...</span>",
+      "city": " London",
+      "date": "15 - 16 March 2018",
+      "start_date": "2018-03-14T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(89).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Finance Summit",
+      "link": "https://www.re-work.co/events/deep-learning-in-finance-summit-london-2018",
+      "title": "",
+      "description": "<span>The Deep Learning in Finance Summit is a multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp; leading financial corporations to explore the impact of deep learning in the financial sector. Applications include identifying and preventing risks, revolutionising financi...</span>",
+      "city": " London",
+      "date": "15 - 16 March 2018",
+      "start_date": "2018-03-14T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(46).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI Assistant Summit",
+      "link": "https://www.re-work.co/events/ai-assistant-summit-london-2018",
+      "title": "",
+      "description": "<span>The next generation in predictive intelligence. Anticipating user &amp; business needs to alert &amp; advise logical steps to increase efficiency. The summit will showcase the opportunities of advancing trends in AI Assistants &amp; their impact on business &amp; society. What impact will predictive intelligence...</span>",
+      "city": " London",
+      "date": "15 - 16 March 2018",
+      "start_date": "2018-03-14T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(71).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI Assistant Summit",
+      "link": "https://www.re-work.co/events/ai-assistant-summit-london-2018",
+      "title": "",
+      "description": "<span>The next generation in predictive intelligence. Anticipating user &amp; business needs to alert &amp; advise logical steps to increase efficiency. The summit will showcase the opportunities of advancing trends in AI Assistants &amp; their impact on business &amp; society. What impact will predictive intelligence...</span>",
+      "city": " London",
+      "date": "15 - 16 March 2018",
+      "start_date": "2018-03-14T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(71).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI Assistant Summit",
+      "link": "https://www.re-work.co/events/ai-assistant-summit-london-2018",
+      "title": "",
+      "description": "<span>The next generation in predictive intelligence. Anticipating user &amp; business needs to alert &amp; advise logical steps to increase efficiency. The summit will showcase the opportunities of advancing trends in AI Assistants &amp; their impact on business &amp; society. What impact will predictive intelligence...</span>",
+      "city": " London",
+      "date": "15 - 16 March 2018",
+      "start_date": "2018-03-14T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(71).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "WEBINAR: Should You Be Using AI In Your Business?",
+      "link": "https://www.re-work.co/events/webinar-feb-2018",
+      "title": "",
+      "description": "<span>AI is transforming every industry it touches from healthcare, to retail and advertising, finance, transport, education, agriculture and so many more. The purpose of AI? To take care of all the mundane tasks employees currently handle, freeing up their time to be more creative and perform the work...</span>",
+      "city": "  Online",
+      "date": "22 February 2018",
+      "start_date": "2018-02-21T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(84).jpg",
+      "location": [
+          "Online"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Webinars"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI Dinner",
+      "link": "https://www.re-work.co/events/women-in-artificial-intelligence-dinner-2018",
+      "title": "",
+      "description": "<span>Leading minds in artificial intelligence will come together for an evening of networking and keynote presentations. After each course, we'll hear short talks from experts, followed by Q&amp;A and discussions throughout the meal. Join us for a three course meal to support women in AI and Machine Intel...</span>",
+      "city": " London",
+      "date": "20 February 2018",
+      "start_date": "2018-02-19T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-28.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "An Introduction to Machine Learning in Healthcare",
+      "link": "https://www.re-work.co/events/intro-machine-learning-healthcare-workshop-london-feb-2018",
+      "title": "",
+      "description": "<span>The Introduction to Machine Learning in Healthcare Workshop will explore how can we use increased computer processing power and personalised healthcare to improve patient outcomes, and apply AI and deep learning to make real-time predictions and actionable interventions. Discover the digital futu...</span>",
+      "city": " London",
+      "date": "14 February 2018",
+      "start_date": "2018-02-13T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-29.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI Assistant Summit",
+      "link": "https://www.re-work.co/events/ai-assistant-summit-san-francisco-2018",
+      "title": "",
+      "description": "<span>The next generation in predictive intelligence. Anticipating user &amp; business needs to alert &amp; advise logical steps to increase efficiency. The summit will showcase the opportunities of advancing trends in AI Assistants &amp; their impact on business &amp; society. What impact will predictive intelligence...</span>",
+      "city": "  San Francisco",
+      "date": "25 - 26 January 2018",
+      "start_date": "2018-01-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-30.jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-san-francisco-2018",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. The increasingly popular branch of machine learning explores advances in methods such as image analysis, speech and pattern recognition, natural language processing, and neural network research. This summit will explore h...</span>",
+      "city": "  San Francisco",
+      "date": "25 - 26 January 2018",
+      "start_date": "2018-01-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(10).png",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in Machine Intelligence Dinner",
+      "link": "https://www.re-work.co/events/women-in-machine-intelligence-dinner-san-francisco",
+      "title": "",
+      "description": "<span>Leading minds in machine intelligence will come together for an evening of networking and keynote presentations. Join us for a three course meal to support women in AI and Machine Intelligence. After each course, we'll hear short talks from experts, followed by Q&amp;A and discussions throughout the ...</span>",
+      "city": "  San Francisco",
+      "date": "23 January 2018",
+      "start_date": "2018-01-22T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-31.jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in AI in Healthcare Dinner",
+      "link": "https://www.re-work.co/events/women-in-artificial-intelligence-healthcare-dinner-2017",
+      "title": "",
+      "description": "<span>Leading minds in healthcare and machine intelligence will come together for an evening of networking and keynote presentations around tools &amp; techniques set to revolutionise healthcare applications, medicine &amp; diagnostics. Join us for a three course meal to support and showcase women in Healthcar...</span>",
+      "city": " London",
+      "date": "22 November 2017",
+      "start_date": "2017-11-21T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-32.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Women in AI"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in Machine Intelligence Dinner",
+      "link": "https://www.re-work.co/events/women-in-machine-intelligence-dinner-montreal",
+      "title": "",
+      "description": "<span>Leading minds in machine intelligence will come together for an evening of networking and keynote presentations. Join us for a three course meal to support women in AI and Machine Intelligence.</span>",
+      "city": " Montreal",
+      "date": "11 October 2017",
+      "start_date": "2017-10-10T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(85).jpg",
+      "location": [
+          "Montreal"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Track 2: Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-montreal-canada-track2-2017",
+      "title": "",
+      "description": "<span>Deep Learning is quickly becoming a core technology for businesses from helping to optimize efficiency to increased forecasting capabilities to providing increased automation. What problems can deep learning solve in your business? How can it be practically applied in industry?</span>",
+      "city": " Montreal",
+      "date": "10 - 11 October 2017",
+      "start_date": "2017-10-09T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-34.jpg",
+      "location": [
+          "Montreal"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Track 1: Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-montreal-canada-track1-2017",
+      "title": "",
+      "description": "<span>What are the latest advancements in deep learning research? Where are the most recent scientific breakthroughs? Hear the latest research news from global pioneers in Natural Language Processing, GANs, Reinforcement Learning, CNNs and Unsupervised Learning at the summit.</span>",
+      "city": " Montreal",
+      "date": "10 - 11 October 2017",
+      "start_date": "2017-10-09T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-33.jpg",
+      "location": [
+          "Montreal"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE•WORK Deep Learning Summit Attendee Dinner",
+      "link": "https://www.re-work.co/events/deep-learning-summit-london-attendee-dinner-2017",
+      "title": "",
+      "description": "<span>Following day 1 of the summit, attendees will come together for an evening of networking, discussions and fine food &amp; wine. Mix with leaders on topics including NLP, speech recognition, reinforcement learning and image analysis, as well as applications in sectors including manufacturing, transpor...</span>",
+      "city": " London",
+      "date": "21 September 2017",
+      "start_date": "2017-09-20T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-39.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI Assistant Summit",
+      "link": "https://www.re-work.co/events/ai-assistant-summit-london-2017",
+      "title": "",
+      "description": "<span>The next generation in predictive intelligence. Anticipating user &amp; business needs to alert &amp; advise logical steps to increase efficiency. The summit will showcase the opportunities of advancing trends in AI Assistants &amp; their impact on business &amp; society. What impact will predictive intelligence...</span>",
+      "city": " London",
+      "date": "21 - 22 September 2017",
+      "start_date": "2017-09-20T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-38.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-london-2017",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is at the forefront of AI. Explore the impact of image &amp; speech recognition as a disruptive trend in business and industry. How can multiple levels of representation and abstraction help to make sense of data such as images, sound, and text. Hear the latest insights and t...</span>",
+      "city": " London",
+      "date": "21 - 22 September 2017",
+      "start_date": "2017-09-20T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-35.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI Assistant Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-london-2017",
+      "title": "",
+      "description": "<span>The next generation in predictive intelligence. Anticipating user &amp; business needs to alert &amp; advise logical steps to increase efficiency. The summit will showcase the opportunities of advancing trends in AI Assistants &amp; their impact on business &amp; society. What impact will predictive intelligence...</span>",
+      "city": " London",
+      "date": "21 - 22 September 2017",
+      "start_date": "2017-09-20T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/large%20(86).jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Machine Intelligence Summit ",
+      "link": "https://www.re-work.co/events/machine-intelligence-summit-amsterdam-2017",
+      "title": "",
+      "description": "<span>The Machine Intelligence Summit: where machine learning meets artificial intelligence. The rise of intelligent machines to make sense of data in the real world. Learn from the industry experts in speech &amp; image recognition, natural language processing and computer vision. Explore how AI will impa...</span>",
+      "city": " Amsterdam",
+      "date": "28 - 29 June 2017",
+      "start_date": "2017-06-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-41.jpg",
+      "location": [],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Machine Intelligence in Autonomous Vehicles Summit",
+      "link": "https://www.re-work.co/events/machine-intelligence-in-autonomous-vehicles-summit-amsterdam-2017",
+      "title": "",
+      "description": "<span>The Machine Intelligence in Autonomous Vehicles Summit brings together leading industry players, exciting new startups and breakthrough technological research to create safer, smarter and more efficient transport. The event will showcase the next generation of connected vehicles, powered by the i...</span>",
+      "city": " Amsterdam",
+      "date": "28 - 29 June 2017",
+      "start_date": "2017-06-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-40.jpg",
+      "location": [],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Finance Summit",
+      "link": "https://www.re-work.co/events/deep-learning-in-finance-summit-london-2017",
+      "title": "",
+      "description": "<span>The Deep Learning in Finance Summit is a multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp; leading financial corporations to explore the impact of deep learning in the financial sector. Applications include identifying and preventing risks, revolutionising financi...</span>",
+      "city": " London",
+      "date": "01 - 02 June 2017",
+      "start_date": "2017-05-31T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-42.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Retail & Advertising Summit",
+      "link": "https://www.re-work.co/events/deep-learning-in-retail-summit-london-2017",
+      "title": "",
+      "description": "<span>The Deep Learning in Retail &amp; Advertising Summit is a multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp; leading retailers to explore the impact of deep learning and AI in the retail and advertising sector. Applications include computer vision for sizing; image ana...</span>",
+      "city": " London",
+      "date": "01 - 02 June 2017",
+      "start_date": "2017-05-31T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-36.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Healthcare Summit",
+      "link": "https://www.re-work.co/events/deep-learning-health-boston-2017",
+      "title": "",
+      "description": "<span>The Deep Learning in Healthcare Summit will explore recent breakthroughs in technical advancements and healthcare applications, from algorithms that learn to recognise complex patterns within rich medical data, to analysing real world evidence for personalised medicine, to discovering the sequenc...</span>",
+      "city": " Boston",
+      "date": "25 - 26 May 2017",
+      "start_date": "2017-05-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-44.png",
+      "location": [
+          "Boston"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-boston-2017",
+      "title": "",
+      "description": "<span>The Deep Learning in Retail &amp; Advertising Summit is a multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp; leading retailers to explore the impact of deep learning and AI in the retail and advertising sector. Applications include computer vision for sizing; image ana...</span>",
+      "city": " Boston",
+      "date": "25 - 26 May 2017",
+      "start_date": "2017-05-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-43.jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Finance Summit",
+      "link": "https://www.re-work.co/events/deep-learning-in-finance-summit-singapore-2017",
+      "title": "",
+      "description": "The Deep Learning in Finance Summit is a multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp;amp; leading financial corporations to explore the impact of deep learning in the financial sector. Applications include identifying and preventing risks, revolutionising financi...",
+      "city": " Singapore",
+      "date": "27 - 28 April 2017",
+      "start_date": "2017-04-26T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-45.jpg",
+      "location": [
+          "Singapore"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Machine Intelligence in Autonomous Vehicles Summit",
+      "link": "https://www.re-work.co/events/machine-intelligence-auto-san-francisco-2017",
+      "title": "",
+      "description": "<span>The Machine Intelligence in Autonomous Vehicles Summit brings together leading industry players, exciting new startups and breakthrough technological research to create safer, smarter and more efficient transport. The event will showcase the next generation of connected vehicles, powered by the i...</span>",
+      "city": " San Francisco",
+      "date": "23 - 24 March 2017",
+      "start_date": "2017-03-22T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-47.jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Machine Intelligence Summit",
+      "link": "https://www.re-work.co/events/machine-intelligence-summit-san-francisco-2017",
+      "title": "",
+      "description": "<span>The Machine Intelligence Summit: where machine learning meets artificial intelligence. The rise of intelligent machines to make sense of data in the real world. Learn from the industry experts in speech &amp; image recognition, natural language processing and computer vision. Explore how AI will impa...</span>",
+      "city": " San Francisco",
+      "date": "23 - 24 March 2017",
+      "start_date": "2017-03-22T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-46.png",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Healthcare Summit",
+      "link": "https://www.re-work.co/events/deep-learning-health-london-2017",
+      "title": "",
+      "description": "<span>The Deep Learning in Healthcare Summit will explore recent breakthroughs in technical advancements and healthcare applications, from algorithms that learn to recognise complex patterns within rich medical data, to analysing real world evidence for personalised medicine, to discovering the sequenc...</span>",
+      "city": " London",
+      "date": "28 - 01 March 2017",
+      "start_date": "2017-02-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-37.png",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in Machine Intelligence Dinner",
+      "link": "https://www.re-work.co/events/women-in-machine-intelligence-dinner-2017",
+      "title": "",
+      "description": "<span>Leading minds in machine intelligence will come together for an evening of networking and keynote presentations. Join us for a three course meal to support women in AI and Machine Intelligence.</span>",
+      "city": " London",
+      "date": "21 February 2017",
+      "start_date": "2017-02-20T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-48.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-summit-san-francisco-2017",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. The increasingly popular branch of machine learning explores advances in methods such as image analysis, speech and pattern recognition, natural language processing, and neural network research. This summit will explore h...</span>",
+      "city": " San Francisco",
+      "date": "26 - 27 January 2017",
+      "start_date": "2017-01-25T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-50.jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Virtual Assistant Summit",
+      "link": "https://www.re-work.co/events/virtual-assistant-summit-san-francisco-2017",
+      "title": "",
+      "description": "<span>The next generation in predictive intelligence. Anticipating user &amp; business needs to alert &amp; advise logical steps to increase efficiency. The summit will showcase the opportunities of advancing trends in VAs &amp; their impact on business &amp; society. What impact will predictive intelligence have on b...</span>",
+      "city": " San Francisco",
+      "date": "26 - 27 January 2017",
+      "start_date": "2017-01-25T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-49.jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Reinventing Energy Summit",
+      "link": "https://www.re-work.co/events/reinventing-energy-summit-london-2016",
+      "title": "",
+      "description": "<span>Applying emerging technology including machine intelligence, smart grid, next generation batteries and end-use business cases to better predict and manage renewable energy generation, consumption and integration.</span>",
+      "city": " London",
+      "date": "25 November 2016",
+      "start_date": "2016-11-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-51.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-singapore",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. Explore the impact of image &amp; speech recognition as a disruptive trend in business and industry. How can multiple levels of representation and abstraction help to make sense of data such as images, sound, and text. Hear t...</span>",
+      "city": " Singapore",
+      "date": "20 - 21 October 2016",
+      "start_date": "2016-10-19T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-52.jpg",
+      "location": [
+          "Singapore"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in Machine Intelligence in Healthcare Dinner",
+      "link": "https://www.re-work.co/events/women-in-machine-intelligence-healthcare-dinner",
+      "title": "",
+      "description": "<span>Leading minds in healthcare and machine intelligence will come together for an evening of networking and keynote presentations around tools &amp; techniques set to revolutionise healthcare applications, medicine &amp; diagnostics. Join us for a three course meal to support and showcase women in Healthcar...</span>",
+      "city": " London",
+      "date": "12 October 2016",
+      "start_date": "2016-10-11T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-53.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Machine Intelligence Summit",
+      "link": "https://www.re-work.co/events/machine-intelligence-summit-usa-2016",
+      "title": "",
+      "description": "<span>The Machine Intelligence Summit: where machine learning meets artificial intelligence. The rise of intelligent machines to make sense of data in the real world. Learn from the industry experts in speech &amp; image recognition, natural language processing and computer vision. Explore how AI will impa...</span>",
+      "city": " New York",
+      "date": "02 - 03 November 2016",
+      "start_date": "2016-10-01T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-56.jpg",
+      "location": [
+          "New York"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Chatbots Track at the Deep Learning Summit London 2016",
+      "link": "https://www.re-work.co/events/chatbots-track-london-2016",
+      "title": "",
+      "description": "<span>AI &amp; deep learning are powering interactive messaging services known as chatbots &amp; virtual assistants, which use conversational interfaces to create deeper, more personalised one-to-one customer experiences. The Chatbot Track will explore the technical advancements in deep learning, NLP &amp; predict...</span>",
+      "city": " London",
+      "date": "23 September 2016",
+      "start_date": "2016-09-22T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-57.png",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Finance Summit",
+      "link": "https://www.re-work.co/events/deep-learning-finance-summit-london-2016",
+      "title": "",
+      "description": "<span>The Deep Learning in Finance Summit is a multidisciplinary event bringing together data scientists, engineers, CTOs, CEOs &amp; leading financial corporations to explore the impact of deep learning in the financial sector. Applications include identifying and preventing risks, revolutionising financi...</span>",
+      "city": " London",
+      "date": "23 September 2016",
+      "start_date": "2016-09-22T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-54.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE•WORK Deep Learning Summit Attendee Dinner",
+      "link": "https://www.re-work.co/events/deep-learning-summit-attendee-dinner-2016",
+      "title": "",
+      "description": "<span>Following day 1 of the summit, attendees will come together for an evening of networking and keynote presentations from deep learning experts. Hear from leaders on topics including NLP, speech recognition and image analysis, as well as applications in sectors including manufacturing, transport, h...</span>",
+      "city": " London",
+      "date": "22 September 2016",
+      "start_date": "2016-09-21T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-64.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-london-2016",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. Explore the impact of image &amp; speech recognition as a disruptive trend in business and industry. How can multiple levels of representation and abstraction help to make sense of data such as images, sound, and text. Hear t...</span>",
+      "city": " London",
+      "date": "22 - 23 September 2016",
+      "start_date": "2016-09-21T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-55.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Bio-Inspired Robotics Meetup",
+      "link": "https://www.re-work.co/events/bio-inspired-robotics-meetup-2016",
+      "title": "",
+      "description": "<span>We are bringing together developers, entrepreneurs, designers and engineers in an evening meetup to explore swarm robotics, biomimetics, machine learning and more.</span>",
+      "city": " London",
+      "date": "12 July 2016",
+      "start_date": "2016-07-11T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-58.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Machine Intelligence Summit",
+      "link": "https://www.re-work.co/events/machine-intelligence-berlin-2016",
+      "title": "",
+      "description": "<span>The Machine Intelligence Summit: where machine learning meets artificial intelligence. The rise of intelligent machines to make sense of data in the real world. Learn from the industry experts in speech &amp; image recognition, natural language processing and computer vision. Explore how AI will impa...</span>",
+      "city": " Berlin",
+      "date": "29 - 30 June 2016",
+      "start_date": "2016-06-28T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-59.jpg",
+      "location": [
+          "Berlin"
+      ],
+      "topic": [
+          "Machine Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "The Future of Education",
+      "link": "https://www.re-work.co/events/edtech-2016",
+      "title": "",
+      "description": "<span>How will advancing hardware and software such as 3D printing, augmented reality, gamification and robotics impact education? How can we ensure they are integrated into education systems in a productive manner?</span>",
+      "city": " London",
+      "date": "20 June 2016",
+      "start_date": "2016-06-19T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-60.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-boston-2016",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. Explore the impact of image &amp; speech recognition as a disruptive trend in business and industry. How can multiple levels of representation and abstraction help to make sense of data such as images, sound, and text. Hear t...</span>",
+      "city": "  Boston",
+      "date": "12 - 13 May 2016",
+      "start_date": "2016-05-11T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-65.jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "The Connected Home Summit",
+      "link": "https://www.re-work.co/events/connected-home-boston-2016",
+      "title": "",
+      "description": "<span>The Connected Home Summit brings together leading industry players, exciting new startups and breakthrough research to create smarter and more efficient homes. The event will showcase the next generation of home automation devices, powered by the internet of things, connected devices, low cost se...</span>",
+      "city": "  Boston",
+      "date": "12 - 13 May 2016",
+      "start_date": "2016-05-11T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-61.jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning in Healthcare Summit",
+      "link": "https://www.re-work.co/events/deep-learning-health-london-2016",
+      "title": "",
+      "description": "<span>The Deep Learning in Healthcare Summit will explore recent breakthroughs in technical advancements and healthcare applications, from algorithms that learn to recognise complex patterns within rich medical data, to analysing real world evidence for personalised medicine, to discovering the sequenc...</span>",
+      "city": "   London",
+      "date": "06 - 07 April 2016",
+      "start_date": "2016-04-05T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-62.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "The Connected City Summit",
+      "link": "https://www.re-work.co/events/connected-city",
+      "title": "",
+      "description": "<span>More than half the world's population now live in cities. With advancements in IoT creating ever more connected-devices, how can we apply new technology to make our cities more efficient, safer and sustainable? We'll explore the latest technologies driving the smart city forward. </span>",
+      "city": "   London",
+      "date": "16 - 17 March 2016",
+      "start_date": "2016-03-15T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-63.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Women in Machine Intelligence Dinner",
+      "link": "https://www.re-work.co/events/women-in-mi-dinner-2016",
+      "title": "",
+      "description": "<span>Leading minds in machine intelligence will come together for an evening of networking and keynote presentations. Join us for a 3 course meal to support women in AI and Machine Intelligence.</span>",
+      "city": "   London",
+      "date": "17 February 2016",
+      "start_date": "2016-02-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-73.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Virtual Assistant Summit",
+      "link": "https://www.re-work.co/events/va-sanfrancisco-2016",
+      "title": "",
+      "description": "<span>The next generation in predictive intelligence. Anticipating user &amp; business needs to alert &amp; advise logical steps to increase efficiency. The summit will showcase the opportunities of advancing trends in VAs &amp; their impact on business &amp; society. What impact will predictive intelligence have on b...</span>",
+      "city": " San Francisco",
+      "date": "28 - 29 January 2016",
+      "start_date": "2016-01-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-75.jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit",
+      "link": "https://www.re-work.co/events/deep-learning-sanfran-2016",
+      "title": "",
+      "description": "<span>This event is in the past &lt;a href=\"https://www.re-work.co/events/\"&gt;See our upcoming events here&lt;/a&gt; </span>",
+      "city": " San Francisco",
+      "date": "28 - 29 January 2016",
+      "start_date": "2016-01-27T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-74.jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Investing in Deep Learning Dinner",
+      "link": "https://www.re-work.co/events/investing-in-dl-dinner-2015",
+      "title": "",
+      "description": "Leading investors, VCs, founders &amp;amp; the top minds in deep learning will come together for an evening of networking and keynote presentations. Join us for a 3 course meal to share ideas, experiences, mentoring.&nbsp;",
+      "city": " London",
+      "date": "1 December 2015",
+      "start_date": "2015-11-30T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-92.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE.WORK Connect Summit San Francisco",
+      "link": "https://www.re-work.co/events/iot-sanfrancisco",
+      "title": "",
+      "description": "<span>The RE.WORK Connect Summit brings together experts in the internet of things, the connected car, quantified self, smart factories, machine learning, the industrial internet &amp; much more from the world's leading companies &amp; innovative startups. We're exploring the convergence of software &amp; hardware...</span>",
+      "city": " San Francisco",
+      "date": "12 - 13 November 2015",
+      "start_date": "2015-11-11T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-66.jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE•WORK Food Production",
+      "link": "https://www.re-work.co/events/foodprod-2015",
+      "title": "",
+      "description": "<span>Will we be able to meet the challenge of feeding the ever growing world population by 2050? This event will focus on food production, and explore how innovations in AgTech &amp; Science, such as drones, genomics &amp; hydroponics can help build a sustainable future. </span>",
+      "city": " London",
+      "date": "21 October 2015",
+      "start_date": "2015-10-20T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-67.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE.WORK Future Technology & Deep Learning Summit Dinner",
+      "link": "https://www.re-work.co/events/dinner-sept-2015",
+      "title": "",
+      "description": "<span>The top minds in emerging tech &amp; science came together for an evening of networking and keynote presentations.</span>",
+      "city": " London",
+      "date": "24 September 2015",
+      "start_date": "2015-09-23T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-90.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Future Technology Summit London 2015",
+      "link": "https://www.re-work.co/events/tech",
+      "title": "",
+      "description": "<span>The RE.WORK Future Technology Summit takes on a new format with not one but two tracks of breakthrough science &amp; technology. The event will showcase entrepreneurship, science and technology within Energy, Healthcare, Robotics, Deep Learning &amp; AI and Cities and the potential to tackle some of the ...</span>",
+      "city": " London",
+      "date": "23 - 24 September 2015",
+      "start_date": "2015-09-22T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-91.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit London 2015",
+      "link": "https://www.re-work.co/events/deep-learning-london-2015",
+      "title": "",
+      "description": "<span>The Deep Learning Summit is the next revolution in artificial intelligence. Explore the impact of image &amp; speech recognition as a disruptive trend in business and industry. How can multiple levels of representation and abstraction help to make sense of data such as images, sound, and text.</span>",
+      "city": " London",
+      "date": "23 - 24 September 2015",
+      "start_date": "2015-09-22T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-68.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "The Future of Education 2015",
+      "link": "https://www.re-work.co/events/edtech-2015",
+      "title": "",
+      "description": "<span>How will advancing hardware and software such as 3D printing, augmented reality, gamification and the robotics impact education? How can we ensure they are integrated into education systems in a productive manner?</span>",
+      "city": " London",
+      "date": "15 June 2015",
+      "start_date": "2015-06-14T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-89.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Internet of Things Summit Boston",
+      "link": "https://www.re-work.co/events/iot-boston-2015",
+      "title": "",
+      "description": "<span>The Internet of Things Summit brings together entrepreneurship, science and technology to re-work the future and tackle some of the world’s greatest challenges. The event will showcase the opportunities of the internet of things and the potential for a positive impact on business and society. </span>",
+      "city": " Boston",
+      "date": "27 - 28 May 2015",
+      "start_date": "2015-05-26T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-88.jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Internet of Things Summit London",
+      "link": "https://www.re-work.co/events/internet-of-things-london",
+      "title": "",
+      "description": "<span>The Internet of Things Summit brings together entrepreneurship, science and technology to re-work the future and tackle some of the world’s greatest challenges. The event will showcase the opportunities of the internet of things and the potential for a positive impact on business and society. </span>",
+      "city": " London",
+      "date": "12 - 13 March 2015",
+      "start_date": "2015-03-11T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-87.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Internet of Things Exclusive Dinner",
+      "link": "https://www.re-work.co/events/iot-dinner-feb-2015",
+      "title": "",
+      "description": "<span>The top minds in the Internet of Things came together for an evening of networking and keynote presentations.</span>",
+      "city": " London",
+      "date": "26 February 2015",
+      "start_date": "2015-02-25T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-86.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Dinner"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Internet of Things Meetup",
+      "link": "https://www.re-work.co/events/iot-meetup",
+      "title": "",
+      "description": "<span>We brought together developers, entrepreneurs, designers, data scientists and engineers in an evening meetup to explore wireless sensors, networked computing, wearables, open hardware with the latest innovators in IOT.</span>",
+      "city": " London",
+      "date": "18 February 2015",
+      "start_date": "2015-02-17T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-85.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit San Francisco 2015",
+      "link": "https://www.re-work.co/events/deep-learning-sanfrancisco-2015",
+      "title": "",
+      "description": "<span>The Deep Learning Innovation Summit is the next revolution in artificial intelligence. Explore the impact of image &amp; speech recognition as a disruptive trend in business and industry. How can multiple levels of representation and abstraction help to make sense of data such as images, sound, and t...</span>",
+      "city": "  San Francisco",
+      "date": "29 - 30 January 2015",
+      "start_date": "2015-01-28T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-84.jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Deep Learning Summit Boston 2015",
+      "link": "https://www.re-work.co/events/deep-learning-boston-2015",
+      "title": "",
+      "description": "<span>The Deep Learning Innovation Summit is the next revolution in artificial intelligence. Explore the impact of image &amp; speech recognition as a disruptive trend in business and industry. How can multiple levels of representation and abstraction help to make sense of data such as images, sound, and t...</span>",
+      "city": " Boston",
+      "date": "25 - 26 May 2015",
+      "start_date": "2015-01-24T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-69.jpg",
+      "location": [
+          "Boston"
+      ],
+      "topic": [
+          "Deep Learning"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE.WORK Cities Summit London 2014",
+      "link": "https://www.re-work.co/events/cities-2014",
+      "title": "",
+      "description": "<span>More than half the world's population now live in cities. How can we use technology to make our cities more efficient, safer and sustainable? We'll take a look at how emerging technologies such as sensors, big data, artificial intelligence and nanotech will affect our future cities.</span>",
+      "city": " London",
+      "date": "04 - 05 December 2014",
+      "start_date": "2014-12-03T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-82.png",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Internet of Things Summit San Francisco 2014",
+      "link": "https://www.re-work.co/events/internet-of-things-sanfrancisco-2014",
+      "title": "",
+      "description": "<span>The Internet of Things Summit brings together entrepreneurship, science and technology to re-work the future and tackle some of the world’s greatest challenges. The event will showcase the opportunities of the internet of things and the potential for a positive impact on business and society. </span>",
+      "city": " San Francisco",
+      "date": "06 - 07 November 2014",
+      "start_date": "2014-11-05T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-81.jpg",
+      "location": [
+          "San Francisco"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "The Future of Robotics Forum",
+      "link": "https://www.re-work.co/events/future-of-robotics",
+      "title": "",
+      "description": "<span>As robots are become more intelligent, their integration into society is going to have an impact on everyone’s lives. Robots that can function independently of human command, adapt to their surroundings &amp; make decisions will be hugely disruptive. We're bringing together key influencers to discuss...</span>",
+      "city": " London",
+      "date": "14 October 2014",
+      "start_date": "2014-10-13T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-80.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE.WORK Technology Summit London 2014",
+      "link": "https://www.re-work.co/events/tech-2014",
+      "title": "",
+      "description": "<span>The RE.WORK Technology Summit brings together entrepreneurship, science and technology to re-work the future and tackle some of the world’s greatest challenges. The event will showcase the opportunities of breakthrough technologies and their potential for a positive impact on business and society. </span>",
+      "city": " London",
+      "date": "17 - 18 September 2014",
+      "start_date": "2014-09-16T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-70.png",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE.WORK Technology Summit Berlin 2014",
+      "link": "https://www.re-work.co/events/tech-berlin",
+      "title": "",
+      "description": "<span>RE.WORK summits focus on exponentially accelerating technology and its impact on business and society. Emerging technology is providing an unprecedented era of opportunity to progress business and solve global challenges. Do you know how to leverage new technology?</span>",
+      "city": " Berlin",
+      "date": "18 - 19 June 2014",
+      "start_date": "2014-06-17T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-71.jpg",
+      "location": [
+          "Berlin"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "The Future of Education",
+      "link": "https://www.re-work.co/events/edtech-2014",
+      "title": "",
+      "description": "<span>How will emerging technologies and innovations such as 3D printing, augmented reality, gamification and the maker movement impact education? How can we ensure they are integrated into education systems in a productive manner?</span>",
+      "city": " London",
+      "date": "16 June 2014",
+      "start_date": "2014-06-15T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-79.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "AI & Robotics Innovation Forum",
+      "link": "https://www.re-work.co/events/artificial-intelligence-robotics",
+      "title": "",
+      "description": "<span>The next 15 years are predicted to see mass hybridisation between humans and robots. As robotics are becoming increasingly more intelligent, their ability to speak, understand natural language and see will allow their interaction with humans to become more prevalent. Investigate the impact of adv...</span>",
+      "city": " London",
+      "date": "13 March 2014",
+      "start_date": "2014-03-12T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-78.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "Gamifying Healthcare",
+      "link": "https://www.re-work.co/events/gamifying-healthcare",
+      "title": "",
+      "description": "<span>Applying gamification methods to advance healthcare &amp; personalised medicine.What behaviours within gaming can transfer into the healthcare sector? We will explore how to transfer gaming methods and motivational dynamics of gameplay to keep people engaged into healthy habits, help adapt behaviours...</span>",
+      "city": "  Nottingham",
+      "date": "18 February 2014",
+      "start_date": "2014-02-17T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-83.jpg",
+      "location": [],
+      "topic": [
+          "Healthcare"
+      ],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE.WORK Cities 2013",
+      "link": "https://www.re-work.co/events/cities-2013",
+      "title": "",
+      "description": "<span>More than half the world's population now live in cities. How can we use technology to make our cities more efficient, safer and sustainable? We'll take a look at how emerging technologies such as sensors, big data, artificial intelligence and nanotech will affect our future cities.</span>",
+      "city": "   London",
+      "date": "13 December 2013",
+      "start_date": "2013-12-12T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-77.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE.WORK Tech 2013",
+      "link": "https://www.re-work.co/events/tech-london-2013",
+      "title": "",
+      "description": "<span>The RE.WORK Technology Summit brings together entrepreneurship, science and technology to re-work the future and tackle some of the world’s greatest challenges. The event will showcase the opportunities of breakthrough technologies and their potential for a positive impact on business and society. </span>",
+      "city": "   London",
+      "date": "18 September 2013",
+      "start_date": "2013-09-17T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-76.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  },
+  {
+      "name": "RE.WORK Tech 2013",
+      "link": "https://www.re-work.co/events/tech-london-2013",
+      "title": "",
+      "description": "<span>The RE.WORK Technology Summit brings together entrepreneurship, science and technology to re-work the future and tackle some of the world’s greatest challenges. The event will showcase the opportunities of breakthrough technologies and their potential for a positive impact on business and society. </span>",
+      "city": " London",
+      "date": "18 September 2013",
+      "start_date": "2013-09-17T18:30:00.000Z",
+      "featured_image": "https://2631050.fs1.hubspotusercontent-na1.net/hubfs/2631050/Karman%20Digital/images/event-72.jpg",
+      "location": [
+          "London"
+      ],
+      "topic": [],
+      "type_of_event": [
+          "Summit"
+      ],
+      "all_events": []
+  }
+] 
